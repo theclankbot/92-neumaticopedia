@@ -1,0 +1,7485 @@
+[
+  {
+    "pattern": "5x114.3",
+    "slug": "5x114-3",
+    "publishedAt": null,
+    "vehicles": [
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "C-HR",
+        "modelSlug": "c-hr",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "C-HR",
+        "modelSlug": "c-hr",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Camry",
+        "modelSlug": "camry",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Camry",
+        "modelSlug": "camry",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Camry",
+        "modelSlug": "camry",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Camry",
+        "modelSlug": "camry",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "bZ4X",
+        "modelSlug": "bz4x",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "bZ4X",
+        "modelSlug": "bz4x",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "bZ4X",
+        "modelSlug": "bz4x",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "bZ4X",
+        "modelSlug": "bz4x",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Proace",
+        "modelSlug": "proace",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Proace",
+        "modelSlug": "proace",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Proace",
+        "modelSlug": "proace",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Auris",
+        "modelSlug": "auris",
+        "years": "2013-2019"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Auris",
+        "modelSlug": "auris",
+        "years": "2013-2019"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Auris",
+        "modelSlug": "auris",
+        "years": "2013-2019"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Auris",
+        "modelSlug": "auris",
+        "years": "2013-2019"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Auris",
+        "modelSlug": "auris",
+        "years": "2013-2019"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Auris",
+        "modelSlug": "auris",
+        "years": "2013-2019"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Avensis",
+        "modelSlug": "avensis",
+        "years": "2009-2018"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Avensis",
+        "modelSlug": "avensis",
+        "years": "2009-2018"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Avensis",
+        "modelSlug": "avensis",
+        "years": "2009-2018"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Avensis",
+        "modelSlug": "avensis",
+        "years": "2009-2018"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "GT86",
+        "modelSlug": "gt86",
+        "years": "2012-2021"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "GT86",
+        "modelSlug": "gt86",
+        "years": "2012-2021"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "GT86",
+        "modelSlug": "gt86",
+        "years": "2012-2021"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "GT86",
+        "modelSlug": "gt86",
+        "years": "2012-2021"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Tiguan",
+        "modelSlug": "tiguan",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Tiguan",
+        "modelSlug": "tiguan",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Tiguan",
+        "modelSlug": "tiguan",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Tiguan",
+        "modelSlug": "tiguan",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Tiguan",
+        "modelSlug": "tiguan",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Tiguan",
+        "modelSlug": "tiguan",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "ID.5",
+        "modelSlug": "id-5",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "ID.5",
+        "modelSlug": "id-5",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Amarok",
+        "modelSlug": "amarok",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "León",
+        "modelSlug": "leon",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "León",
+        "modelSlug": "leon",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "León",
+        "modelSlug": "leon",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "León",
+        "modelSlug": "leon",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "León",
+        "modelSlug": "leon",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Tarraco",
+        "modelSlug": "tarraco",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Tarraco",
+        "modelSlug": "tarraco",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Tarraco",
+        "modelSlug": "tarraco",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Leon",
+        "modelSlug": "leon",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Leon",
+        "modelSlug": "leon",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Leon",
+        "modelSlug": "leon",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Leon",
+        "modelSlug": "leon",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Leon",
+        "modelSlug": "leon",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Tucson",
+        "modelSlug": "tucson",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Tucson",
+        "modelSlug": "tucson",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Tucson",
+        "modelSlug": "tucson",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Tucson",
+        "modelSlug": "tucson",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Santa Fe",
+        "modelSlug": "santa-fe",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Santa Fe",
+        "modelSlug": "santa-fe",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Santa Fe",
+        "modelSlug": "santa-fe",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Santa Fe",
+        "modelSlug": "santa-fe",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Staria",
+        "modelSlug": "staria",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Staria",
+        "modelSlug": "staria",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Staria",
+        "modelSlug": "staria",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Sportage",
+        "modelSlug": "sportage",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Sportage",
+        "modelSlug": "sportage",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Sorento",
+        "modelSlug": "sorento",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Sorento",
+        "modelSlug": "sorento",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Sorento",
+        "modelSlug": "sorento",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Sorento",
+        "modelSlug": "sorento",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Sorento",
+        "modelSlug": "sorento",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Sorento",
+        "modelSlug": "sorento",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "508",
+        "modelSlug": "508",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "508",
+        "modelSlug": "508",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "508",
+        "modelSlug": "508",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "Partner",
+        "modelSlug": "partner",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "Partner",
+        "modelSlug": "partner",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Mégane E-Tech",
+        "modelSlug": "megane-e-tech",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Trafic",
+        "modelSlug": "trafic",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Trafic",
+        "modelSlug": "trafic",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4 X",
+        "modelSlug": "c4-x",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4 X",
+        "modelSlug": "c4-x",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4 X",
+        "modelSlug": "c4-x",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4 X",
+        "modelSlug": "c4-x",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4 Picasso",
+        "modelSlug": "c4-picasso",
+        "years": "2013-2020"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4 Picasso",
+        "modelSlug": "c4-picasso",
+        "years": "2013-2020"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4 Picasso",
+        "modelSlug": "c4-picasso",
+        "years": "2013-2020"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4 Picasso",
+        "modelSlug": "c4-picasso",
+        "years": "2013-2020"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4 Picasso",
+        "modelSlug": "c4-picasso",
+        "years": "2013-2020"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "Serie 2 Active Tourer",
+        "modelSlug": "serie-2-active-tourer",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X4",
+        "modelSlug": "x4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X4",
+        "modelSlug": "x4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X4",
+        "modelSlug": "x4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X7",
+        "modelSlug": "x7",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X7",
+        "modelSlug": "x7",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X7",
+        "modelSlug": "x7",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X7",
+        "modelSlug": "x7",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X7",
+        "modelSlug": "x7",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "XM",
+        "modelSlug": "xm",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "XM",
+        "modelSlug": "xm",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "XM",
+        "modelSlug": "xm",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "iX1",
+        "modelSlug": "ix1",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "iX1",
+        "modelSlug": "ix1",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "iX1",
+        "modelSlug": "ix1",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "iX1",
+        "modelSlug": "ix1",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "iX3",
+        "modelSlug": "ix3",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "iX3",
+        "modelSlug": "ix3",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "iX3",
+        "modelSlug": "ix3",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "iX3",
+        "modelSlug": "ix3",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A7",
+        "modelSlug": "a7",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A7",
+        "modelSlug": "a7",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A7",
+        "modelSlug": "a7",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A7",
+        "modelSlug": "a7",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A7",
+        "modelSlug": "a7",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A8",
+        "modelSlug": "a8",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A8",
+        "modelSlug": "a8",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A8",
+        "modelSlug": "a8",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A8",
+        "modelSlug": "a8",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q6 e-tron",
+        "modelSlug": "q6-e-tron",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q7",
+        "modelSlug": "q7",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q7",
+        "modelSlug": "q7",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q7",
+        "modelSlug": "q7",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q7",
+        "modelSlug": "q7",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q8 e-tron",
+        "modelSlug": "q8-e-tron",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q8 e-tron",
+        "modelSlug": "q8-e-tron",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Clase A",
+        "modelSlug": "clase-a",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Clase A",
+        "modelSlug": "clase-a",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Clase C",
+        "modelSlug": "clase-c",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Clase E",
+        "modelSlug": "clase-e",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Clase E",
+        "modelSlug": "clase-e",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Clase S",
+        "modelSlug": "clase-s",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Clase S",
+        "modelSlug": "clase-s",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQC",
+        "modelSlug": "eqc",
+        "years": "2020-2025"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQC",
+        "modelSlug": "eqc",
+        "years": "2020-2025"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQC",
+        "modelSlug": "eqc",
+        "years": "2020-2025"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQC",
+        "modelSlug": "eqc",
+        "years": "2020-2025"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Vito",
+        "modelSlug": "vito",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Kuga",
+        "modelSlug": "kuga",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Kuga",
+        "modelSlug": "kuga",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Kuga",
+        "modelSlug": "kuga",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Kuga",
+        "modelSlug": "kuga",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Kuga",
+        "modelSlug": "kuga",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Mustang Mach-E",
+        "modelSlug": "mustang-mach-e",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Mustang Mach-E",
+        "modelSlug": "mustang-mach-e",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Mustang Mach-E",
+        "modelSlug": "mustang-mach-e",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Mustang Mach-E",
+        "modelSlug": "mustang-mach-e",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Mustang Mach-E",
+        "modelSlug": "mustang-mach-e",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Ranger",
+        "modelSlug": "ranger",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Duster",
+        "modelSlug": "duster",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Duster",
+        "modelSlug": "duster",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Duster",
+        "modelSlug": "duster",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Duster",
+        "modelSlug": "duster",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Jogger",
+        "modelSlug": "jogger",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Jogger",
+        "modelSlug": "jogger",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Jogger",
+        "modelSlug": "jogger",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Jogger",
+        "modelSlug": "jogger",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Jogger",
+        "modelSlug": "jogger",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Jogger",
+        "modelSlug": "jogger",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Bigster",
+        "modelSlug": "bigster",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Bigster",
+        "modelSlug": "bigster",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Bigster",
+        "modelSlug": "bigster",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Dokker",
+        "modelSlug": "dokker",
+        "years": "2013-2022"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Dokker",
+        "modelSlug": "dokker",
+        "years": "2013-2022"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Combo Life",
+        "modelSlug": "combo-life",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Combo Life",
+        "modelSlug": "combo-life",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Combo Life",
+        "modelSlug": "combo-life",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Movano",
+        "modelSlug": "movano",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Frontera",
+        "modelSlug": "frontera",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Frontera",
+        "modelSlug": "frontera",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Frontera",
+        "modelSlug": "frontera",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Frontera",
+        "modelSlug": "frontera",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "Mazda3",
+        "modelSlug": "mazda3",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "Mazda3",
+        "modelSlug": "mazda3",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "Mazda3",
+        "modelSlug": "mazda3",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "Mazda3",
+        "modelSlug": "mazda3",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "Mazda3",
+        "modelSlug": "mazda3",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "MX-5",
+        "modelSlug": "mx-5",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "MX-5",
+        "modelSlug": "mx-5",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "MX-5",
+        "modelSlug": "mx-5",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "MX-5",
+        "modelSlug": "mx-5",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "MX-5",
+        "modelSlug": "mx-5",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "MX-5",
+        "modelSlug": "mx-5",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "500X",
+        "modelSlug": "500x",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "500X",
+        "modelSlug": "500x",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "500X",
+        "modelSlug": "500x",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "500X",
+        "modelSlug": "500x",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "500X",
+        "modelSlug": "500x",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "500L",
+        "modelSlug": "500l",
+        "years": "2013-2022"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "500L",
+        "modelSlug": "500l",
+        "years": "2013-2022"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "500L",
+        "modelSlug": "500l",
+        "years": "2013-2022"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "500L",
+        "modelSlug": "500l",
+        "years": "2013-2022"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Octavia",
+        "modelSlug": "octavia",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Octavia",
+        "modelSlug": "octavia",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Octavia",
+        "modelSlug": "octavia",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Karoq",
+        "modelSlug": "karoq",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Karoq",
+        "modelSlug": "karoq",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Karoq",
+        "modelSlug": "karoq",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Karoq",
+        "modelSlug": "karoq",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Karoq",
+        "modelSlug": "karoq",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Enyaq Coupé",
+        "modelSlug": "enyaq-coupe",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Enyaq Coupé",
+        "modelSlug": "enyaq-coupe",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Enyaq Coupé",
+        "modelSlug": "enyaq-coupe",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Enyaq Coupé",
+        "modelSlug": "enyaq-coupe",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Enyaq Coupé",
+        "modelSlug": "enyaq-coupe",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Enyaq Coupé",
+        "modelSlug": "enyaq-coupe",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX30",
+        "modelSlug": "ex30",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX30",
+        "modelSlug": "ex30",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX30",
+        "modelSlug": "ex30",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX30",
+        "modelSlug": "ex30",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "S60",
+        "modelSlug": "s60",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "S60",
+        "modelSlug": "s60",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "V60",
+        "modelSlug": "v60",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "V60",
+        "modelSlug": "v60",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "V60",
+        "modelSlug": "v60",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "V60",
+        "modelSlug": "v60",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Giulia",
+        "modelSlug": "giulia",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Giulia",
+        "modelSlug": "giulia",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Giulia",
+        "modelSlug": "giulia",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Giulia",
+        "modelSlug": "giulia",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Stelvio",
+        "modelSlug": "stelvio",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Stelvio",
+        "modelSlug": "stelvio",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Stelvio",
+        "modelSlug": "stelvio",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Tonale",
+        "modelSlug": "tonale",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Tonale",
+        "modelSlug": "tonale",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Tonale",
+        "modelSlug": "tonale",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Tonale",
+        "modelSlug": "tonale",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Clubman",
+        "modelSlug": "clubman",
+        "years": "2015-2024"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Clubman",
+        "modelSlug": "clubman",
+        "years": "2015-2024"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Clubman",
+        "modelSlug": "clubman",
+        "years": "2015-2024"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Clubman",
+        "modelSlug": "clubman",
+        "years": "2015-2024"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Clubman",
+        "modelSlug": "clubman",
+        "years": "2015-2024"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Defender",
+        "modelSlug": "defender",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Defender",
+        "modelSlug": "defender",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Defender",
+        "modelSlug": "defender",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Defender",
+        "modelSlug": "defender",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Defender",
+        "modelSlug": "defender",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 7",
+        "modelSlug": "ds-7",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 7",
+        "modelSlug": "ds-7",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 7",
+        "modelSlug": "ds-7",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 7",
+        "modelSlug": "ds-7",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 7",
+        "modelSlug": "ds-7",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 9",
+        "modelSlug": "ds-9",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 9",
+        "modelSlug": "ds-9",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 9",
+        "modelSlug": "ds-9",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "ZS EV",
+        "modelSlug": "zs-ev",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "ZS EV",
+        "modelSlug": "zs-ev",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Tesla",
+        "brandSlug": "tesla",
+        "model": "Model Y",
+        "modelSlug": "model-y",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Tesla",
+        "brandSlug": "tesla",
+        "model": "Model Y",
+        "modelSlug": "model-y",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "S-Cross",
+        "modelSlug": "s-cross",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "S-Cross",
+        "modelSlug": "s-cross",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "S-Cross",
+        "modelSlug": "s-cross",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Swace",
+        "modelSlug": "swace",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Swace",
+        "modelSlug": "swace",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Swace",
+        "modelSlug": "swace",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Swace",
+        "modelSlug": "swace",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "L200",
+        "modelSlug": "l200",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "L200",
+        "modelSlug": "l200",
+        "years": "2019-2026"
+      }
+    ]
+  },
+  {
+    "pattern": "5x108",
+    "slug": "5x108",
+    "publishedAt": null,
+    "vehicles": [
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "RAV4",
+        "modelSlug": "rav4",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "RAV4",
+        "modelSlug": "rav4",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "RAV4",
+        "modelSlug": "rav4",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "RAV4",
+        "modelSlug": "rav4",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "RAV4",
+        "modelSlug": "rav4",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Corolla Cross",
+        "modelSlug": "corolla-cross",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Corolla Cross",
+        "modelSlug": "corolla-cross",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Corolla Cross",
+        "modelSlug": "corolla-cross",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Corolla Cross",
+        "modelSlug": "corolla-cross",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Golf",
+        "modelSlug": "golf",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Golf",
+        "modelSlug": "golf",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Golf",
+        "modelSlug": "golf",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Golf",
+        "modelSlug": "golf",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Golf",
+        "modelSlug": "golf",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Touran",
+        "modelSlug": "touran",
+        "years": "2015-2025"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Touran",
+        "modelSlug": "touran",
+        "years": "2015-2025"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Ateca",
+        "modelSlug": "ateca",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Ateca",
+        "modelSlug": "ateca",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Ateca",
+        "modelSlug": "ateca",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Toledo",
+        "modelSlug": "toledo",
+        "years": "2013-2019"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Toledo",
+        "modelSlug": "toledo",
+        "years": "2013-2019"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Toledo",
+        "modelSlug": "toledo",
+        "years": "2013-2019"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Toledo",
+        "modelSlug": "toledo",
+        "years": "2013-2019"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Toledo",
+        "modelSlug": "toledo",
+        "years": "2013-2019"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Formentor",
+        "modelSlug": "formentor",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Formentor",
+        "modelSlug": "formentor",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Formentor",
+        "modelSlug": "formentor",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Formentor",
+        "modelSlug": "formentor",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Born",
+        "modelSlug": "born",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Born",
+        "modelSlug": "born",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Terramar",
+        "modelSlug": "terramar",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Terramar",
+        "modelSlug": "terramar",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Terramar",
+        "modelSlug": "terramar",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "i30",
+        "modelSlug": "i30",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "i30",
+        "modelSlug": "i30",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "i30",
+        "modelSlug": "i30",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "i30",
+        "modelSlug": "i30",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "EV6",
+        "modelSlug": "ev6",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "EV6",
+        "modelSlug": "ev6",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "e-308",
+        "modelSlug": "e-308",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "e-308",
+        "modelSlug": "e-308",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Scénic E-Tech",
+        "modelSlug": "scenic-e-tech",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Scénic E-Tech",
+        "modelSlug": "scenic-e-tech",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Rafale",
+        "modelSlug": "rafale",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Rafale",
+        "modelSlug": "rafale",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Rafale",
+        "modelSlug": "rafale",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Rafale",
+        "modelSlug": "rafale",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Rafale",
+        "modelSlug": "rafale",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Rafale",
+        "modelSlug": "rafale",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C5 Aircross",
+        "modelSlug": "c5-aircross",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C5 Aircross",
+        "modelSlug": "c5-aircross",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C5 Aircross",
+        "modelSlug": "c5-aircross",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C5 Aircross",
+        "modelSlug": "c5-aircross",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C5 Aircross",
+        "modelSlug": "c5-aircross",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C-Elysée",
+        "modelSlug": "c-elysee",
+        "years": "2013-2020"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C-Elysée",
+        "modelSlug": "c-elysee",
+        "years": "2013-2020"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C-Elysée",
+        "modelSlug": "c-elysee",
+        "years": "2013-2020"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C-Elysée",
+        "modelSlug": "c-elysee",
+        "years": "2013-2020"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C-Elysée",
+        "modelSlug": "c-elysee",
+        "years": "2013-2020"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "Serie 2 Gran Coupé",
+        "modelSlug": "serie-2-gran-coupe",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "iX",
+        "modelSlug": "ix",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "iX",
+        "modelSlug": "ix",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "iX",
+        "modelSlug": "ix",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A3",
+        "modelSlug": "a3",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A3",
+        "modelSlug": "a3",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A4",
+        "modelSlug": "a4",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A4",
+        "modelSlug": "a4",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A4",
+        "modelSlug": "a4",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A4",
+        "modelSlug": "a4",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A5",
+        "modelSlug": "a5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A5",
+        "modelSlug": "a5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A5",
+        "modelSlug": "a5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A5",
+        "modelSlug": "a5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A5",
+        "modelSlug": "a5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A5",
+        "modelSlug": "a5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q3",
+        "modelSlug": "q3",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q3",
+        "modelSlug": "q3",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q3",
+        "modelSlug": "q3",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q3",
+        "modelSlug": "q3",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "S3",
+        "modelSlug": "s3",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "S3",
+        "modelSlug": "s3",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "S3",
+        "modelSlug": "s3",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "S3",
+        "modelSlug": "s3",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "S3",
+        "modelSlug": "s3",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "S3",
+        "modelSlug": "s3",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "CLA",
+        "modelSlug": "cla",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "CLA",
+        "modelSlug": "cla",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "CLA",
+        "modelSlug": "cla",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "CLA",
+        "modelSlug": "cla",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "CLA",
+        "modelSlug": "cla",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "CLE",
+        "modelSlug": "cle",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "CLE",
+        "modelSlug": "cle",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "CLE",
+        "modelSlug": "cle",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLA",
+        "modelSlug": "gla",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLA",
+        "modelSlug": "gla",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLA",
+        "modelSlug": "gla",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLA",
+        "modelSlug": "gla",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLA",
+        "modelSlug": "gla",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLC",
+        "modelSlug": "glc",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLC",
+        "modelSlug": "glc",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLC",
+        "modelSlug": "glc",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLC",
+        "modelSlug": "glc",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Focus",
+        "modelSlug": "focus",
+        "years": "2018-2025"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Focus",
+        "modelSlug": "focus",
+        "years": "2018-2025"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Focus",
+        "modelSlug": "focus",
+        "years": "2018-2025"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Focus",
+        "modelSlug": "focus",
+        "years": "2018-2025"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Explorer",
+        "modelSlug": "explorer",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Explorer",
+        "modelSlug": "explorer",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Tourneo Connect",
+        "modelSlug": "tourneo-connect",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Tourneo Connect",
+        "modelSlug": "tourneo-connect",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Tourneo Connect",
+        "modelSlug": "tourneo-connect",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Lodgy",
+        "modelSlug": "lodgy",
+        "years": "2012-2022"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Lodgy",
+        "modelSlug": "lodgy",
+        "years": "2012-2022"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Lodgy",
+        "modelSlug": "lodgy",
+        "years": "2012-2022"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Lodgy",
+        "modelSlug": "lodgy",
+        "years": "2012-2022"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Astra",
+        "modelSlug": "astra",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Astra",
+        "modelSlug": "astra",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Astra",
+        "modelSlug": "astra",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Astra",
+        "modelSlug": "astra",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Astra-e",
+        "modelSlug": "astra-e",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Astra-e",
+        "modelSlug": "astra-e",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Astra-e",
+        "modelSlug": "astra-e",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Qashqai",
+        "modelSlug": "qashqai",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Qashqai",
+        "modelSlug": "qashqai",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Qashqai",
+        "modelSlug": "qashqai",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Leaf",
+        "modelSlug": "leaf",
+        "years": "2018-2025"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Leaf",
+        "modelSlug": "leaf",
+        "years": "2018-2025"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Leaf",
+        "modelSlug": "leaf",
+        "years": "2018-2025"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Leaf",
+        "modelSlug": "leaf",
+        "years": "2018-2025"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Ariya",
+        "modelSlug": "ariya",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Ariya",
+        "modelSlug": "ariya",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Ariya",
+        "modelSlug": "ariya",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Kodiaq",
+        "modelSlug": "kodiaq",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Kodiaq",
+        "modelSlug": "kodiaq",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Kodiaq",
+        "modelSlug": "kodiaq",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Kodiaq",
+        "modelSlug": "kodiaq",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Enyaq",
+        "modelSlug": "enyaq",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Enyaq",
+        "modelSlug": "enyaq",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Enyaq",
+        "modelSlug": "enyaq",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Enyaq",
+        "modelSlug": "enyaq",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Enyaq",
+        "modelSlug": "enyaq",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Elroq",
+        "modelSlug": "elroq",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Elroq",
+        "modelSlug": "elroq",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Elroq",
+        "modelSlug": "elroq",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Elroq",
+        "modelSlug": "elroq",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "XC40",
+        "modelSlug": "xc40",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "XC40",
+        "modelSlug": "xc40",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "XC40",
+        "modelSlug": "xc40",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX40",
+        "modelSlug": "ex40",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX40",
+        "modelSlug": "ex40",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX40",
+        "modelSlug": "ex40",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX40",
+        "modelSlug": "ex40",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX40",
+        "modelSlug": "ex40",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX40",
+        "modelSlug": "ex40",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX90",
+        "modelSlug": "ex90",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX90",
+        "modelSlug": "ex90",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX90",
+        "modelSlug": "ex90",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EX90",
+        "modelSlug": "ex90",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EC40",
+        "modelSlug": "ec40",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EC40",
+        "modelSlug": "ec40",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "EC40",
+        "modelSlug": "ec40",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "V90",
+        "modelSlug": "v90",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "V90",
+        "modelSlug": "v90",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "V90",
+        "modelSlug": "v90",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "V90",
+        "modelSlug": "v90",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "CR-V",
+        "modelSlug": "cr-v",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "CR-V",
+        "modelSlug": "cr-v",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "CR-V",
+        "modelSlug": "cr-v",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "CR-V",
+        "modelSlug": "cr-v",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "CR-V",
+        "modelSlug": "cr-v",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "HR-V",
+        "modelSlug": "hr-v",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "HR-V",
+        "modelSlug": "hr-v",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "HR-V",
+        "modelSlug": "hr-v",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Giulietta",
+        "modelSlug": "giulietta",
+        "years": "2010-2020"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Giulietta",
+        "modelSlug": "giulietta",
+        "years": "2010-2020"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Giulietta",
+        "modelSlug": "giulietta",
+        "years": "2010-2020"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Giulietta",
+        "modelSlug": "giulietta",
+        "years": "2010-2020"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Compass",
+        "modelSlug": "compass",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Compass",
+        "modelSlug": "compass",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Compass",
+        "modelSlug": "compass",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Compass",
+        "modelSlug": "compass",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Range Rover Velar",
+        "modelSlug": "range-rover-velar",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Range Rover Evoque",
+        "modelSlug": "range-rover-evoque",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "MG4",
+        "modelSlug": "mg4",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "MG4",
+        "modelSlug": "mg4",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "MG4",
+        "modelSlug": "mg4",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "ZS",
+        "modelSlug": "zs",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "ZS",
+        "modelSlug": "zs",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "ZS",
+        "modelSlug": "zs",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "ZS",
+        "modelSlug": "zs",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "ZS",
+        "modelSlug": "zs",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "ZS",
+        "modelSlug": "zs",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Tesla",
+        "brandSlug": "tesla",
+        "model": "Model 3",
+        "modelSlug": "model-3",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Tesla",
+        "brandSlug": "tesla",
+        "model": "Model 3",
+        "modelSlug": "model-3",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Vitara",
+        "modelSlug": "vitara",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Vitara",
+        "modelSlug": "vitara",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Vitara",
+        "modelSlug": "vitara",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Vitara",
+        "modelSlug": "vitara",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Across",
+        "modelSlug": "across",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Across",
+        "modelSlug": "across",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Across",
+        "modelSlug": "across",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Across",
+        "modelSlug": "across",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Across",
+        "modelSlug": "across",
+        "years": "2021-2026"
+      }
+    ]
+  },
+  {
+    "pattern": "5x112",
+    "slug": "5x112",
+    "publishedAt": null,
+    "vehicles": [
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Highlander",
+        "modelSlug": "highlander",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Highlander",
+        "modelSlug": "highlander",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Highlander",
+        "modelSlug": "highlander",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Highlander",
+        "modelSlug": "highlander",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "GR86",
+        "modelSlug": "gr86",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "GR86",
+        "modelSlug": "gr86",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "GR86",
+        "modelSlug": "gr86",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "GR86",
+        "modelSlug": "gr86",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Passat",
+        "modelSlug": "passat",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Passat",
+        "modelSlug": "passat",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Passat",
+        "modelSlug": "passat",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Touareg",
+        "modelSlug": "touareg",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Touareg",
+        "modelSlug": "touareg",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Touareg",
+        "modelSlug": "touareg",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Touareg",
+        "modelSlug": "touareg",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "ID.3",
+        "modelSlug": "id-3",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "ID.3",
+        "modelSlug": "id-3",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "ID.4",
+        "modelSlug": "id-4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "ID.4",
+        "modelSlug": "id-4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "ID.7",
+        "modelSlug": "id-7",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "ID.Buzz",
+        "modelSlug": "id-buzz",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "ID.Buzz",
+        "modelSlug": "id-buzz",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Tavascan",
+        "modelSlug": "tavascan",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Tavascan",
+        "modelSlug": "tavascan",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Tavascan",
+        "modelSlug": "tavascan",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Tavascan",
+        "modelSlug": "tavascan",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "IONIQ 6",
+        "modelSlug": "ioniq-6",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "IONIQ 6",
+        "modelSlug": "ioniq-6",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Ceed",
+        "modelSlug": "ceed",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Ceed",
+        "modelSlug": "ceed",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Ceed",
+        "modelSlug": "ceed",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Ceed",
+        "modelSlug": "ceed",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "EV9",
+        "modelSlug": "ev9",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "EV9",
+        "modelSlug": "ev9",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "XCeed",
+        "modelSlug": "xceed",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "XCeed",
+        "modelSlug": "xceed",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "XCeed",
+        "modelSlug": "xceed",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "XCeed",
+        "modelSlug": "xceed",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "XCeed",
+        "modelSlug": "xceed",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "XCeed",
+        "modelSlug": "xceed",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "ProCeed",
+        "modelSlug": "proceed",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "ProCeed",
+        "modelSlug": "proceed",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "ProCeed",
+        "modelSlug": "proceed",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "ProCeed",
+        "modelSlug": "proceed",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "308",
+        "modelSlug": "308",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "308",
+        "modelSlug": "308",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "408",
+        "modelSlug": "408",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "408",
+        "modelSlug": "408",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "408",
+        "modelSlug": "408",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "Traveller",
+        "modelSlug": "traveller",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "Traveller",
+        "modelSlug": "traveller",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "Traveller",
+        "modelSlug": "traveller",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Austral",
+        "modelSlug": "austral",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Austral",
+        "modelSlug": "austral",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Austral",
+        "modelSlug": "austral",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Austral",
+        "modelSlug": "austral",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Arkana",
+        "modelSlug": "arkana",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Arkana",
+        "modelSlug": "arkana",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Arkana",
+        "modelSlug": "arkana",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Arkana",
+        "modelSlug": "arkana",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Espace",
+        "modelSlug": "espace",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Espace",
+        "modelSlug": "espace",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Espace",
+        "modelSlug": "espace",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Espace",
+        "modelSlug": "espace",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4",
+        "modelSlug": "c4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4",
+        "modelSlug": "c4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4",
+        "modelSlug": "c4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4",
+        "modelSlug": "c4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C4",
+        "modelSlug": "c4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C5 X",
+        "modelSlug": "c5-x",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C5 X",
+        "modelSlug": "c5-x",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C5 X",
+        "modelSlug": "c5-x",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C5 X",
+        "modelSlug": "c5-x",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "Serie 1",
+        "modelSlug": "serie-1",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X6",
+        "modelSlug": "x6",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X6",
+        "modelSlug": "x6",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X6",
+        "modelSlug": "x6",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "Z4",
+        "modelSlug": "z4",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "Z4",
+        "modelSlug": "z4",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "M3",
+        "modelSlug": "m3",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "M3",
+        "modelSlug": "m3",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q4 e-tron",
+        "modelSlug": "q4-e-tron",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q5",
+        "modelSlug": "q5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q5",
+        "modelSlug": "q5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q5",
+        "modelSlug": "q5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q5",
+        "modelSlug": "q5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q5",
+        "modelSlug": "q5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "TT",
+        "modelSlug": "tt",
+        "years": "2014-2024"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "TT",
+        "modelSlug": "tt",
+        "years": "2014-2024"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "TT",
+        "modelSlug": "tt",
+        "years": "2014-2024"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "TT",
+        "modelSlug": "tt",
+        "years": "2014-2024"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "RS3",
+        "modelSlug": "rs3",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "RS3",
+        "modelSlug": "rs3",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "RS3",
+        "modelSlug": "rs3",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "RS3",
+        "modelSlug": "rs3",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "RS3",
+        "modelSlug": "rs3",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "RS3",
+        "modelSlug": "rs3",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Clase B",
+        "modelSlug": "clase-b",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Clase B",
+        "modelSlug": "clase-b",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLB",
+        "modelSlug": "glb",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLB",
+        "modelSlug": "glb",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLB",
+        "modelSlug": "glb",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLB",
+        "modelSlug": "glb",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLB",
+        "modelSlug": "glb",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Clase G",
+        "modelSlug": "clase-g",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQA",
+        "modelSlug": "eqa",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQA",
+        "modelSlug": "eqa",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQA",
+        "modelSlug": "eqa",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQA",
+        "modelSlug": "eqa",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQA",
+        "modelSlug": "eqa",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQA",
+        "modelSlug": "eqa",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQE",
+        "modelSlug": "eqe",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQE",
+        "modelSlug": "eqe",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "AMG GT",
+        "modelSlug": "amg-gt",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "AMG GT",
+        "modelSlug": "amg-gt",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "AMG GT",
+        "modelSlug": "amg-gt",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Logan",
+        "modelSlug": "logan",
+        "years": "2013-2022"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Logan",
+        "modelSlug": "logan",
+        "years": "2013-2022"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Logan",
+        "modelSlug": "logan",
+        "years": "2013-2022"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Logan",
+        "modelSlug": "logan",
+        "years": "2013-2022"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Grandland",
+        "modelSlug": "grandland",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Grandland",
+        "modelSlug": "grandland",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Grandland",
+        "modelSlug": "grandland",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Zafira Life",
+        "modelSlug": "zafira-life",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Zafira Life",
+        "modelSlug": "zafira-life",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Zafira Life",
+        "modelSlug": "zafira-life",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-60",
+        "modelSlug": "cx-60",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-60",
+        "modelSlug": "cx-60",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-60",
+        "modelSlug": "cx-60",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-80",
+        "modelSlug": "cx-80",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-80",
+        "modelSlug": "cx-80",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-80",
+        "modelSlug": "cx-80",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-80",
+        "modelSlug": "cx-80",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-80",
+        "modelSlug": "cx-80",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "Mazda6",
+        "modelSlug": "mazda6",
+        "years": "2013-2023"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "Mazda6",
+        "modelSlug": "mazda6",
+        "years": "2013-2023"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "Mazda6",
+        "modelSlug": "mazda6",
+        "years": "2013-2023"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "Mazda6",
+        "modelSlug": "mazda6",
+        "years": "2013-2023"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "Mazda6",
+        "modelSlug": "mazda6",
+        "years": "2013-2023"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "XC90",
+        "modelSlug": "xc90",
+        "years": "2015-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "XC90",
+        "modelSlug": "xc90",
+        "years": "2015-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "XC90",
+        "modelSlug": "xc90",
+        "years": "2015-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "C40",
+        "modelSlug": "c40",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "C40",
+        "modelSlug": "c40",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "C40",
+        "modelSlug": "c40",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "C40",
+        "modelSlug": "c40",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "e:Ny1",
+        "modelSlug": "e-ny1",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Countryman",
+        "modelSlug": "countryman",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Countryman",
+        "modelSlug": "countryman",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Countryman",
+        "modelSlug": "countryman",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Discovery Sport",
+        "modelSlug": "discovery-sport",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Discovery Sport",
+        "modelSlug": "discovery-sport",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Discovery Sport",
+        "modelSlug": "discovery-sport",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Discovery Sport",
+        "modelSlug": "discovery-sport",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 4",
+        "modelSlug": "ds-4",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 4",
+        "modelSlug": "ds-4",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 4",
+        "modelSlug": "ds-4",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 4",
+        "modelSlug": "ds-4",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 4",
+        "modelSlug": "ds-4",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 7 Crossback",
+        "modelSlug": "ds-7-crossback",
+        "years": "2018-2022"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 7 Crossback",
+        "modelSlug": "ds-7-crossback",
+        "years": "2018-2022"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 7 Crossback",
+        "modelSlug": "ds-7-crossback",
+        "years": "2018-2022"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 7 Crossback",
+        "modelSlug": "ds-7-crossback",
+        "years": "2018-2022"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "MG5",
+        "modelSlug": "mg5",
+        "years": "2022-2025"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "MG5",
+        "modelSlug": "mg5",
+        "years": "2022-2025"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "MG5",
+        "modelSlug": "mg5",
+        "years": "2022-2025"
+      },
+      {
+        "brand": "Tesla",
+        "brandSlug": "tesla",
+        "model": "Model S",
+        "modelSlug": "model-s",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Tesla",
+        "brandSlug": "tesla",
+        "model": "Model X",
+        "modelSlug": "model-x",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "Eclipse Cross",
+        "modelSlug": "eclipse-cross",
+        "years": "2021-2026"
+      }
+    ]
+  },
+  {
+    "pattern": "5x100",
+    "slug": "5x100",
+    "publishedAt": null,
+    "vehicles": [
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Corolla",
+        "modelSlug": "corolla",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Corolla",
+        "modelSlug": "corolla",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Corolla",
+        "modelSlug": "corolla",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Prius",
+        "modelSlug": "prius",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Prius",
+        "modelSlug": "prius",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Prius",
+        "modelSlug": "prius",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Prius",
+        "modelSlug": "prius",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "T-Roc",
+        "modelSlug": "t-roc",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "T-Roc",
+        "modelSlug": "t-roc",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "T-Roc",
+        "modelSlug": "t-roc",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "T-Roc",
+        "modelSlug": "t-roc",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "T-Roc",
+        "modelSlug": "t-roc",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Ateca",
+        "modelSlug": "ateca",
+        "years": "2020-2024"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Ateca",
+        "modelSlug": "ateca",
+        "years": "2020-2024"
+      },
+      {
+        "brand": "CUPRA",
+        "brandSlug": "cupra",
+        "model": "Ateca",
+        "modelSlug": "ateca",
+        "years": "2020-2024"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "i20 N",
+        "modelSlug": "i20-n",
+        "years": "2021-2025"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Niro",
+        "modelSlug": "niro",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Niro",
+        "modelSlug": "niro",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Niro",
+        "modelSlug": "niro",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Niro",
+        "modelSlug": "niro",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Niro",
+        "modelSlug": "niro",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "EV3",
+        "modelSlug": "ev3",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "3008",
+        "modelSlug": "3008",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "3008",
+        "modelSlug": "3008",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "3008",
+        "modelSlug": "3008",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "3008",
+        "modelSlug": "3008",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "3008",
+        "modelSlug": "3008",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "3008",
+        "modelSlug": "3008",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "e-2008",
+        "modelSlug": "e-2008",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "Rifter",
+        "modelSlug": "rifter",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "Rifter",
+        "modelSlug": "rifter",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "Rifter",
+        "modelSlug": "rifter",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "Rifter",
+        "modelSlug": "rifter",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Captur",
+        "modelSlug": "captur",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Captur",
+        "modelSlug": "captur",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C3",
+        "modelSlug": "c3",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C3",
+        "modelSlug": "c3",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C3",
+        "modelSlug": "c3",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C3 Aircross",
+        "modelSlug": "c3-aircross",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "C3 Aircross",
+        "modelSlug": "c3-aircross",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "Berlingo",
+        "modelSlug": "berlingo",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "Berlingo",
+        "modelSlug": "berlingo",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "Berlingo",
+        "modelSlug": "berlingo",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "ë-C4",
+        "modelSlug": "e-c4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "Serie 2 Coupé",
+        "modelSlug": "serie-2-coupe",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "Serie 2 Coupé",
+        "modelSlug": "serie-2-coupe",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X1",
+        "modelSlug": "x1",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X1",
+        "modelSlug": "x1",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X2",
+        "modelSlug": "x2",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X2",
+        "modelSlug": "x2",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X2",
+        "modelSlug": "x2",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q2",
+        "modelSlug": "q2",
+        "years": "2017-2025"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q2",
+        "modelSlug": "q2",
+        "years": "2017-2025"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQB",
+        "modelSlug": "eqb",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQB",
+        "modelSlug": "eqb",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQB",
+        "modelSlug": "eqb",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Puma",
+        "modelSlug": "puma",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Puma",
+        "modelSlug": "puma",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Tourneo Courier",
+        "modelSlug": "tourneo-courier",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Tourneo Courier",
+        "modelSlug": "tourneo-courier",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Sandero Stepway",
+        "modelSlug": "sandero-stepway",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Sandero Stepway",
+        "modelSlug": "sandero-stepway",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Crossland",
+        "modelSlug": "crossland",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Crossland",
+        "modelSlug": "crossland",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Corsa-e",
+        "modelSlug": "corsa-e",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Corsa-e",
+        "modelSlug": "corsa-e",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Mokka-e",
+        "modelSlug": "mokka-e",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Mokka-e",
+        "modelSlug": "mokka-e",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Mokka-e",
+        "modelSlug": "mokka-e",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "Mazda2",
+        "modelSlug": "mazda2",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "Mazda2",
+        "modelSlug": "mazda2",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "Mazda2",
+        "modelSlug": "mazda2",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-3",
+        "modelSlug": "cx-3",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-3",
+        "modelSlug": "cx-3",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-30",
+        "modelSlug": "cx-30",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-30",
+        "modelSlug": "cx-30",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-30",
+        "modelSlug": "cx-30",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-30",
+        "modelSlug": "cx-30",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "MX-30",
+        "modelSlug": "mx-30",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "MX-30",
+        "modelSlug": "mx-30",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "MX-30",
+        "modelSlug": "mx-30",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "MX-30",
+        "modelSlug": "mx-30",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Tipo",
+        "modelSlug": "tipo",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Tipo",
+        "modelSlug": "tipo",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Tipo",
+        "modelSlug": "tipo",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Tipo",
+        "modelSlug": "tipo",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Tipo",
+        "modelSlug": "tipo",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "600",
+        "modelSlug": "600",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "600",
+        "modelSlug": "600",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "600",
+        "modelSlug": "600",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "600",
+        "modelSlug": "600",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Scala",
+        "modelSlug": "scala",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Scala",
+        "modelSlug": "scala",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Scala",
+        "modelSlug": "scala",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "Civic",
+        "modelSlug": "civic",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "Civic",
+        "modelSlug": "civic",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "ZR-V",
+        "modelSlug": "zr-v",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "ZR-V",
+        "modelSlug": "zr-v",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "ZR-V",
+        "modelSlug": "zr-v",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "ZR-V",
+        "modelSlug": "zr-v",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "Civic Type R",
+        "modelSlug": "civic-type-r",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Avenger",
+        "modelSlug": "avenger",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Avenger",
+        "modelSlug": "avenger",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Avenger",
+        "modelSlug": "avenger",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Avenger",
+        "modelSlug": "avenger",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "HS",
+        "modelSlug": "hs",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "HS",
+        "modelSlug": "hs",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "HS",
+        "modelSlug": "hs",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "ASX",
+        "modelSlug": "asx",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "ASX",
+        "modelSlug": "asx",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "ASX",
+        "modelSlug": "asx",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "ASX",
+        "modelSlug": "asx",
+        "years": "2023-2026"
+      }
+    ]
+  },
+  {
+    "pattern": "5x120",
+    "slug": "5x120",
+    "publishedAt": null,
+    "vehicles": [
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Land Cruiser",
+        "modelSlug": "land-cruiser",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Land Cruiser",
+        "modelSlug": "land-cruiser",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Land Cruiser",
+        "modelSlug": "land-cruiser",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Supra",
+        "modelSlug": "supra",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Supra",
+        "modelSlug": "supra",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Multivan",
+        "modelSlug": "multivan",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Multivan",
+        "modelSlug": "multivan",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Multivan",
+        "modelSlug": "multivan",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Multivan",
+        "modelSlug": "multivan",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Alhambra",
+        "modelSlug": "alhambra",
+        "years": "2010-2022"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Alhambra",
+        "modelSlug": "alhambra",
+        "years": "2010-2022"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Alhambra",
+        "modelSlug": "alhambra",
+        "years": "2010-2022"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "IONIQ 5",
+        "modelSlug": "ioniq-5",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "IONIQ 5 N",
+        "modelSlug": "ioniq-5-n",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "IONIQ 5 N",
+        "modelSlug": "ioniq-5-n",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "NEXO",
+        "modelSlug": "nexo",
+        "years": "2019-2025"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "NEXO",
+        "modelSlug": "nexo",
+        "years": "2019-2025"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "NEXO",
+        "modelSlug": "nexo",
+        "years": "2019-2025"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "NEXO",
+        "modelSlug": "nexo",
+        "years": "2019-2025"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "5008",
+        "modelSlug": "5008",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "5008",
+        "modelSlug": "5008",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "5008",
+        "modelSlug": "5008",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "5008",
+        "modelSlug": "5008",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Symbioz",
+        "modelSlug": "symbioz",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Symbioz",
+        "modelSlug": "symbioz",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Symbioz",
+        "modelSlug": "symbioz",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Symbioz",
+        "modelSlug": "symbioz",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "Serie 3",
+        "modelSlug": "serie-3",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "Serie 4",
+        "modelSlug": "serie-4",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "Serie 4",
+        "modelSlug": "serie-4",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "Serie 5",
+        "modelSlug": "serie-5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "Serie 7",
+        "modelSlug": "serie-7",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "Serie 7",
+        "modelSlug": "serie-7",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X3",
+        "modelSlug": "x3",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X3",
+        "modelSlug": "x3",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X3",
+        "modelSlug": "x3",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X3",
+        "modelSlug": "x3",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X3",
+        "modelSlug": "x3",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X3",
+        "modelSlug": "x3",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "i4",
+        "modelSlug": "i4",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "i4",
+        "modelSlug": "i4",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "i4",
+        "modelSlug": "i4",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "i4",
+        "modelSlug": "i4",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "i4",
+        "modelSlug": "i4",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "i7",
+        "modelSlug": "i7",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "i7",
+        "modelSlug": "i7",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "M4",
+        "modelSlug": "m4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "M4",
+        "modelSlug": "m4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "M4",
+        "modelSlug": "m4",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLE",
+        "modelSlug": "gle",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLE",
+        "modelSlug": "gle",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLE",
+        "modelSlug": "gle",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLE",
+        "modelSlug": "gle",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLS",
+        "modelSlug": "gls",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLS",
+        "modelSlug": "gls",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLS",
+        "modelSlug": "gls",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLS",
+        "modelSlug": "gls",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "GLS",
+        "modelSlug": "gls",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Bronco",
+        "modelSlug": "bronco",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Bronco",
+        "modelSlug": "bronco",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Bronco",
+        "modelSlug": "bronco",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Mustang",
+        "modelSlug": "mustang",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Mustang",
+        "modelSlug": "mustang",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Mustang",
+        "modelSlug": "mustang",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "X-Trail",
+        "modelSlug": "x-trail",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "X-Trail",
+        "modelSlug": "x-trail",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "X-Trail",
+        "modelSlug": "x-trail",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "X-Trail",
+        "modelSlug": "x-trail",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-5",
+        "modelSlug": "cx-5",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-5",
+        "modelSlug": "cx-5",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-5",
+        "modelSlug": "cx-5",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-5",
+        "modelSlug": "cx-5",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Mazda",
+        "brandSlug": "mazda",
+        "model": "CX-5",
+        "modelSlug": "cx-5",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "124 Spider",
+        "modelSlug": "124-spider",
+        "years": "2016-2020"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "124 Spider",
+        "modelSlug": "124-spider",
+        "years": "2016-2020"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "124 Spider",
+        "modelSlug": "124-spider",
+        "years": "2016-2020"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "124 Spider",
+        "modelSlug": "124-spider",
+        "years": "2016-2020"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "124 Spider",
+        "modelSlug": "124-spider",
+        "years": "2016-2020"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Superb",
+        "modelSlug": "superb",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Superb",
+        "modelSlug": "superb",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Superb",
+        "modelSlug": "superb",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Superb",
+        "modelSlug": "superb",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "XC60",
+        "modelSlug": "xc60",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "XC60",
+        "modelSlug": "xc60",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "XC60",
+        "modelSlug": "xc60",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Wrangler",
+        "modelSlug": "wrangler",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Wrangler",
+        "modelSlug": "wrangler",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Wrangler",
+        "modelSlug": "wrangler",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Wrangler",
+        "modelSlug": "wrangler",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Wrangler",
+        "modelSlug": "wrangler",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Discovery",
+        "modelSlug": "discovery",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Discovery",
+        "modelSlug": "discovery",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Discovery",
+        "modelSlug": "discovery",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "Marvel R",
+        "modelSlug": "marvel-r",
+        "years": "2022-2025"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "Marvel R",
+        "modelSlug": "marvel-r",
+        "years": "2022-2025"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "Marvel R",
+        "modelSlug": "marvel-r",
+        "years": "2022-2025"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "Marvel R",
+        "modelSlug": "marvel-r",
+        "years": "2022-2025"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "Cyberster",
+        "modelSlug": "cyberster",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "Cyberster",
+        "modelSlug": "cyberster",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "Outlander",
+        "modelSlug": "outlander",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "Outlander",
+        "modelSlug": "outlander",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "Outlander",
+        "modelSlug": "outlander",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "Outlander",
+        "modelSlug": "outlander",
+        "years": "2023-2026"
+      }
+    ]
+  },
+  {
+    "pattern": "4x100",
+    "slug": "4x100",
+    "publishedAt": null,
+    "vehicles": [
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Yaris",
+        "modelSlug": "yaris",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Yaris",
+        "modelSlug": "yaris",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Yaris",
+        "modelSlug": "yaris",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Yaris",
+        "modelSlug": "yaris",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Yaris Cross",
+        "modelSlug": "yaris-cross",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Aygo X",
+        "modelSlug": "aygo-x",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Aygo X",
+        "modelSlug": "aygo-x",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "T-Cross",
+        "modelSlug": "t-cross",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "T-Cross",
+        "modelSlug": "t-cross",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "T-Cross",
+        "modelSlug": "t-cross",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Ibiza",
+        "modelSlug": "ibiza",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Mii",
+        "modelSlug": "mii",
+        "years": "2012-2021"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Bayon",
+        "modelSlug": "bayon",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Bayon",
+        "modelSlug": "bayon",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "i10",
+        "modelSlug": "i10",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "i10",
+        "modelSlug": "i10",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Stonic",
+        "modelSlug": "stonic",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Stonic",
+        "modelSlug": "stonic",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Stonic",
+        "modelSlug": "stonic",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "208",
+        "modelSlug": "208",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Clio",
+        "modelSlug": "clio",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Clio",
+        "modelSlug": "clio",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Clio",
+        "modelSlug": "clio",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Clio",
+        "modelSlug": "clio",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Twingo",
+        "modelSlug": "twingo",
+        "years": "2014-2024"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Twingo",
+        "modelSlug": "twingo",
+        "years": "2014-2024"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Twingo",
+        "modelSlug": "twingo",
+        "years": "2014-2024"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A1",
+        "modelSlug": "a1",
+        "years": "2019-2025"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A1",
+        "modelSlug": "a1",
+        "years": "2019-2025"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A1",
+        "modelSlug": "a1",
+        "years": "2019-2025"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Fiesta",
+        "modelSlug": "fiesta",
+        "years": "2017-2023"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Fiesta",
+        "modelSlug": "fiesta",
+        "years": "2017-2023"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Sandero",
+        "modelSlug": "sandero",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Sandero",
+        "modelSlug": "sandero",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Sandero",
+        "modelSlug": "sandero",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Mokka",
+        "modelSlug": "mokka",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Mokka",
+        "modelSlug": "mokka",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Micra",
+        "modelSlug": "micra",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Micra",
+        "modelSlug": "micra",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Micra",
+        "modelSlug": "micra",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Micra",
+        "modelSlug": "micra",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "500",
+        "modelSlug": "500",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "500",
+        "modelSlug": "500",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Grande Panda",
+        "modelSlug": "grande-panda",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Fabia",
+        "modelSlug": "fabia",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Fabia",
+        "modelSlug": "fabia",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Epiq",
+        "modelSlug": "epiq",
+        "years": "2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Epiq",
+        "modelSlug": "epiq",
+        "years": "2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Epiq",
+        "modelSlug": "epiq",
+        "years": "2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "Honda e",
+        "modelSlug": "honda-e",
+        "years": "2020-2024"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "Honda e",
+        "modelSlug": "honda-e",
+        "years": "2020-2024"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "Honda e",
+        "modelSlug": "honda-e",
+        "years": "2020-2024"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Renegade",
+        "modelSlug": "renegade",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Renegade",
+        "modelSlug": "renegade",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Renegade",
+        "modelSlug": "renegade",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Cooper Cabrio",
+        "modelSlug": "cooper-cabrio",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Cooper Cabrio",
+        "modelSlug": "cooper-cabrio",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 3",
+        "modelSlug": "ds-3",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 3",
+        "modelSlug": "ds-3",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "DS",
+        "brandSlug": "ds",
+        "model": "DS 3 Crossback",
+        "modelSlug": "ds-3-crossback",
+        "years": "2019-2023"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Ignis",
+        "modelSlug": "ignis",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Ignis",
+        "modelSlug": "ignis",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Jimny",
+        "modelSlug": "jimny",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "Space Star",
+        "modelSlug": "space-star",
+        "years": "2013-2025"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "Space Star",
+        "modelSlug": "space-star",
+        "years": "2013-2025"
+      }
+    ]
+  },
+  {
+    "pattern": "5x130",
+    "slug": "5x130",
+    "publishedAt": null,
+    "vehicles": [
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Arteon",
+        "modelSlug": "arteon",
+        "years": "2017-2025"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Arteon",
+        "modelSlug": "arteon",
+        "years": "2017-2025"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Arteon",
+        "modelSlug": "arteon",
+        "years": "2017-2025"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Arteon",
+        "modelSlug": "arteon",
+        "years": "2017-2025"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Arteon",
+        "modelSlug": "arteon",
+        "years": "2017-2025"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Arteon",
+        "modelSlug": "arteon",
+        "years": "2017-2025"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Stinger",
+        "modelSlug": "stinger",
+        "years": "2018-2023"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Stinger",
+        "modelSlug": "stinger",
+        "years": "2018-2023"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Kangoo",
+        "modelSlug": "kangoo",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Kangoo",
+        "modelSlug": "kangoo",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Master",
+        "modelSlug": "master",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Master",
+        "modelSlug": "master",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "Master",
+        "modelSlug": "master",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "SpaceTourer",
+        "modelSlug": "spacetourer",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "SpaceTourer",
+        "modelSlug": "spacetourer",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "SpaceTourer",
+        "modelSlug": "spacetourer",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "SpaceTourer",
+        "modelSlug": "spacetourer",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X5",
+        "modelSlug": "x5",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X5",
+        "modelSlug": "x5",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "X5",
+        "modelSlug": "x5",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "i5",
+        "modelSlug": "i5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "BMW",
+        "brandSlug": "bmw",
+        "model": "i5",
+        "modelSlug": "i5",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A6",
+        "modelSlug": "a6",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "A6",
+        "modelSlug": "a6",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q8",
+        "modelSlug": "q8",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q8",
+        "modelSlug": "q8",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "Q8",
+        "modelSlug": "q8",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "e-tron GT",
+        "modelSlug": "e-tron-gt",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "RS6",
+        "modelSlug": "rs6",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "RS6",
+        "modelSlug": "rs6",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "RS6",
+        "modelSlug": "rs6",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Audi",
+        "brandSlug": "audi",
+        "model": "RS6",
+        "modelSlug": "rs6",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQS",
+        "modelSlug": "eqs",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQS",
+        "modelSlug": "eqs",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQS",
+        "modelSlug": "eqs",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "EQS",
+        "modelSlug": "eqs",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Clase V",
+        "modelSlug": "clase-v",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Navara",
+        "modelSlug": "navara",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Ducato",
+        "modelSlug": "ducato",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Ducato",
+        "modelSlug": "ducato",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Ducato",
+        "modelSlug": "ducato",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "S90",
+        "modelSlug": "s90",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "S90",
+        "modelSlug": "s90",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "S90",
+        "modelSlug": "s90",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "S90",
+        "modelSlug": "s90",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Volvo",
+        "brandSlug": "volvo",
+        "model": "S90",
+        "modelSlug": "s90",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Grand Cherokee",
+        "modelSlug": "grand-cherokee",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Grand Cherokee",
+        "modelSlug": "grand-cherokee",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Grand Cherokee",
+        "modelSlug": "grand-cherokee",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Grand Cherokee",
+        "modelSlug": "grand-cherokee",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Commander",
+        "modelSlug": "commander",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Commander",
+        "modelSlug": "commander",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Commander",
+        "modelSlug": "commander",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Jeep",
+        "brandSlug": "jeep",
+        "model": "Commander",
+        "modelSlug": "commander",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Range Rover",
+        "modelSlug": "range-rover",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Range Rover",
+        "modelSlug": "range-rover",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Range Rover Sport",
+        "modelSlug": "range-rover-sport",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Land Rover",
+        "brandSlug": "land-rover",
+        "model": "Range Rover Sport",
+        "modelSlug": "range-rover-sport",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Tesla",
+        "brandSlug": "tesla",
+        "model": "Cybertruck",
+        "modelSlug": "cybertruck",
+        "years": "2024-2026"
+      }
+    ]
+  },
+  {
+    "pattern": "4x108",
+    "slug": "4x108",
+    "publishedAt": null,
+    "vehicles": [
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Polo",
+        "modelSlug": "polo",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Taigo",
+        "modelSlug": "taigo",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Taigo",
+        "modelSlug": "taigo",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Taigo",
+        "modelSlug": "taigo",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Arona",
+        "modelSlug": "arona",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "SEAT",
+        "brandSlug": "seat",
+        "model": "Arona",
+        "modelSlug": "arona",
+        "years": "2018-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Kona",
+        "modelSlug": "kona",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "Kona",
+        "modelSlug": "kona",
+        "years": "2023-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "i20",
+        "modelSlug": "i20",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "i20",
+        "modelSlug": "i20",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "i20",
+        "modelSlug": "i20",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Rio",
+        "modelSlug": "rio",
+        "years": "2017-2023"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "2008",
+        "modelSlug": "2008",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "2008",
+        "modelSlug": "2008",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "2008",
+        "modelSlug": "2008",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "e-208",
+        "modelSlug": "e-208",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "e-208",
+        "modelSlug": "e-208",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "R5 E-Tech",
+        "modelSlug": "r5-e-tech",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Renault",
+        "brandSlug": "renault",
+        "model": "R5 E-Tech",
+        "modelSlug": "r5-e-tech",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Citroën",
+        "brandSlug": "citroen",
+        "model": "ë-C3",
+        "modelSlug": "e-c3",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Corsa",
+        "modelSlug": "corsa",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Corsa",
+        "modelSlug": "corsa",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Corsa",
+        "modelSlug": "corsa",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Juke",
+        "modelSlug": "juke",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Kamiq",
+        "modelSlug": "kamiq",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Kamiq",
+        "modelSlug": "kamiq",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Škoda",
+        "brandSlug": "skoda",
+        "model": "Kamiq",
+        "modelSlug": "kamiq",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "Jazz",
+        "modelSlug": "jazz",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "Jazz",
+        "modelSlug": "jazz",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Honda",
+        "brandSlug": "honda",
+        "model": "Jazz",
+        "modelSlug": "jazz",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Junior",
+        "modelSlug": "junior",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Junior",
+        "modelSlug": "junior",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Alfa Romeo",
+        "brandSlug": "alfa-romeo",
+        "model": "Junior",
+        "modelSlug": "junior",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Aceman",
+        "modelSlug": "aceman",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Aceman",
+        "modelSlug": "aceman",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "MG",
+        "brandSlug": "mg",
+        "model": "MG3 Hybrid+",
+        "modelSlug": "mg3-hybrid",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Swift",
+        "modelSlug": "swift",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Swift",
+        "modelSlug": "swift",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Suzuki",
+        "brandSlug": "suzuki",
+        "model": "Swift",
+        "modelSlug": "swift",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "Colt",
+        "modelSlug": "colt",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Mitsubishi",
+        "brandSlug": "mitsubishi",
+        "model": "Colt",
+        "modelSlug": "colt",
+        "years": "2024-2026"
+      }
+    ]
+  },
+  {
+    "pattern": "6x139.7",
+    "slug": "6x139-7",
+    "publishedAt": null,
+    "vehicles": [
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Caddy",
+        "modelSlug": "caddy",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Caddy",
+        "modelSlug": "caddy",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Caddy",
+        "modelSlug": "caddy",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Caddy",
+        "modelSlug": "caddy",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "Expert",
+        "modelSlug": "expert",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "Expert",
+        "modelSlug": "expert",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "Expert",
+        "modelSlug": "expert",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Peugeot",
+        "brandSlug": "peugeot",
+        "model": "Expert",
+        "modelSlug": "expert",
+        "years": "2016-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Sprinter",
+        "modelSlug": "sprinter",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Sprinter",
+        "modelSlug": "sprinter",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Sprinter",
+        "modelSlug": "sprinter",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "brandSlug": "mercedes-benz",
+        "model": "Sprinter",
+        "modelSlug": "sprinter",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Transit Connect",
+        "modelSlug": "transit-connect",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Transit Connect",
+        "modelSlug": "transit-connect",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Transit Courier",
+        "modelSlug": "transit-courier",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Transit Courier",
+        "modelSlug": "transit-courier",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Transit Courier",
+        "modelSlug": "transit-courier",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Transit Courier",
+        "modelSlug": "transit-courier",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Primastar",
+        "modelSlug": "primastar",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Primastar",
+        "modelSlug": "primastar",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Primastar",
+        "modelSlug": "primastar",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Doblò",
+        "modelSlug": "doblo",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Scudo",
+        "modelSlug": "scudo",
+        "years": "2022-2026"
+      }
+    ]
+  },
+  {
+    "pattern": "4x98",
+    "slug": "4x98",
+    "publishedAt": null,
+    "vehicles": [
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Up!",
+        "modelSlug": "up",
+        "years": "2012-2023"
+      },
+      {
+        "brand": "Volkswagen",
+        "brandSlug": "volkswagen",
+        "model": "Up!",
+        "modelSlug": "up",
+        "years": "2012-2023"
+      },
+      {
+        "brand": "Hyundai",
+        "brandSlug": "hyundai",
+        "model": "INSTER",
+        "modelSlug": "inster",
+        "years": "2025-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Picanto",
+        "modelSlug": "picanto",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Picanto",
+        "modelSlug": "picanto",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Kia",
+        "brandSlug": "kia",
+        "model": "Picanto",
+        "modelSlug": "picanto",
+        "years": "2017-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Spring",
+        "modelSlug": "spring",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Dacia",
+        "brandSlug": "dacia",
+        "model": "Spring",
+        "modelSlug": "spring",
+        "years": "2021-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Panda",
+        "modelSlug": "panda",
+        "years": "2012-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Panda",
+        "modelSlug": "panda",
+        "years": "2012-2026"
+      },
+      {
+        "brand": "Fiat",
+        "brandSlug": "fiat",
+        "model": "Panda",
+        "modelSlug": "panda",
+        "years": "2012-2026"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Cooper",
+        "modelSlug": "cooper",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Cooper",
+        "modelSlug": "cooper",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "Cooper",
+        "modelSlug": "cooper",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "John Cooper Works",
+        "modelSlug": "john-cooper-works",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "MINI",
+        "brandSlug": "mini",
+        "model": "John Cooper Works",
+        "modelSlug": "john-cooper-works",
+        "years": "2024-2026"
+      }
+    ]
+  },
+  {
+    "pattern": "5x118",
+    "slug": "5x118",
+    "publishedAt": null,
+    "vehicles": [
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Proace City",
+        "modelSlug": "proace-city",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Toyota",
+        "brandSlug": "toyota",
+        "model": "Hilux",
+        "modelSlug": "hilux",
+        "years": "2020-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Vivaro",
+        "modelSlug": "vivaro",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Opel",
+        "brandSlug": "opel",
+        "model": "Vivaro",
+        "modelSlug": "vivaro",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Townstar",
+        "modelSlug": "townstar",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Townstar",
+        "modelSlug": "townstar",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Interstar",
+        "modelSlug": "interstar",
+        "years": "2022-2026"
+      },
+      {
+        "brand": "Nissan",
+        "brandSlug": "nissan",
+        "model": "Interstar",
+        "modelSlug": "interstar",
+        "years": "2022-2026"
+      }
+    ]
+  },
+  {
+    "pattern": "6x130",
+    "slug": "6x130",
+    "publishedAt": null,
+    "vehicles": [
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Transit",
+        "modelSlug": "transit",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Transit",
+        "modelSlug": "transit",
+        "years": "2019-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Transit Custom",
+        "modelSlug": "transit-custom",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Transit Custom",
+        "modelSlug": "transit-custom",
+        "years": "2024-2026"
+      },
+      {
+        "brand": "Ford",
+        "brandSlug": "ford",
+        "model": "Transit Custom",
+        "modelSlug": "transit-custom",
+        "years": "2024-2026"
+      }
+    ]
+  }
+]

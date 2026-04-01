@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /api/
+Disallow: /buscar
+Disallow: /buscar?*
+Disallow: /_next/
+
+Sitemap: https://neumaticopedia.com/sitemap.xml

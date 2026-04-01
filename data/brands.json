@@ -1,0 +1,302 @@
+[
+  {
+    "slug": "alfa-romeo",
+    "name": "Alfa Romeo",
+    "country": "Italia",
+    "founded": "1910",
+    "hq": "Turín, Italia",
+    "description": "Alfa Romeo es un fabricante italiano de automóviles de tradición deportiva, fundado en 1910. Parte del grupo Stellantis, la marca del Quadrifoglio es sinónimo de pasión, diseño italiano y placer de conducción puro.",
+    "modelCount": 5,
+    "publishedAt": null
+  },
+  {
+    "slug": "audi",
+    "name": "Audi",
+    "country": "Alemania",
+    "founded": "1909",
+    "hq": "Ingolstadt, Alemania",
+    "description": "Audi AG es un fabricante alemán de automóviles premium, parte del Grupo Volkswagen. Conocida por su tecnología quattro de tracción integral, su eslogan 'Vorsprung durch Technik' y una gama que combina lujo, deportividad y tecnología avanzada.",
+    "modelCount": 20,
+    "publishedAt": null
+  },
+  {
+    "slug": "bmw",
+    "name": "BMW",
+    "country": "Alemania",
+    "founded": "1916",
+    "hq": "Múnich, Alemania",
+    "description": "Bayerische Motoren Werke (BMW) es un fabricante alemán de automóviles premium. Fundada en 1916, BMW es sinónimo de placer de conducción, innovación tecnológica y diseño deportivo elegante, con una gama que abarca desde compactos hasta SUV de lujo.",
+    "modelCount": 25,
+    "publishedAt": null
+  },
+  {
+    "slug": "cupra",
+    "name": "CUPRA",
+    "country": "España",
+    "founded": "2018",
+    "hq": "Martorell, España",
+    "description": "CUPRA es la marca deportiva del grupo SEAT, creada en 2018 como marca independiente. Con sede en Martorell (Barcelona), combina el diseño español con rendimiento deportivo y tecnología de vanguardia en modelos como el Formentor y el Born.",
+    "modelCount": 6,
+    "publishedAt": null
+  },
+  {
+    "slug": "citroen",
+    "name": "Citroën",
+    "country": "Francia",
+    "founded": "1919",
+    "hq": "París, Francia",
+    "description": "Citroën es un fabricante francés de automóviles fundado en 1919 por André Citroën. Forma parte del grupo Stellantis y es conocida por su diseño audaz, confort de suspensión y modelos como el C3, C4 y Berlingo.",
+    "modelCount": 12,
+    "publishedAt": null
+  },
+  {
+    "slug": "ds",
+    "name": "DS",
+    "country": "Francia",
+    "founded": "2014",
+    "hq": "París, Francia",
+    "description": "DS Automobiles es la marca premium del grupo Stellantis, nacida de Citroën en 2014. DS combina artesanía francesa, diseño avant-garde y tecnología de vanguardia en una gama de vehículos que buscan competir con el segmento premium alemán.",
+    "modelCount": 6,
+    "publishedAt": null
+  },
+  {
+    "slug": "dacia",
+    "name": "Dacia",
+    "country": "Rumanía",
+    "founded": "1966",
+    "hq": "Mioveni, Rumanía",
+    "description": "Dacia es un fabricante rumano de automóviles, filial del Grupo Renault desde 1999. Se ha convertido en la marca líder en relación calidad-precio en Europa, con modelos asequibles y bien equipados como el Sandero, Duster y Jogger.",
+    "modelCount": 9,
+    "publishedAt": null
+  },
+  {
+    "slug": "fiat",
+    "name": "Fiat",
+    "country": "Italia",
+    "founded": "1899",
+    "hq": "Turín, Italia",
+    "description": "Fiat (Fabbrica Italiana Automobili Torino) es el fabricante de automóviles italiano más grande. Parte del grupo Stellantis, es conocida por modelos urbanos icónicos como el 500, el Panda y el Tipo, con un estilo italiano inconfundible.",
+    "modelCount": 11,
+    "publishedAt": null
+  },
+  {
+    "slug": "ford",
+    "name": "Ford",
+    "country": "Estados Unidos",
+    "founded": "1903",
+    "hq": "Dearborn, Michigan, EE.UU.",
+    "description": "Ford Motor Company es uno de los fabricantes de automóviles más importantes del mundo. Fundada en 1903 por Henry Ford, la marca americana ha reinventado su gama europea con modelos como el Puma, el Kuga y la Mustang Mach-E eléctrica.",
+    "modelCount": 15,
+    "publishedAt": null
+  },
+  {
+    "slug": "honda",
+    "name": "Honda",
+    "country": "Japón",
+    "founded": "1948",
+    "hq": "Tokio, Japón",
+    "description": "Honda Motor Co. es un fabricante japonés de automóviles y motocicletas. Conocida por su fiabilidad mecánica, tecnología VTEC y modelos como el Civic y el CR-V, Honda mantiene una presencia importante en el mercado europeo.",
+    "modelCount": 8,
+    "publishedAt": null
+  },
+  {
+    "slug": "hyundai",
+    "name": "Hyundai",
+    "country": "Corea del Sur",
+    "founded": "1967",
+    "hq": "Seúl, Corea del Sur",
+    "description": "Hyundai Motor Company es el tercer fabricante de automóviles del mundo. Fundada en 1967, la marca surcoreana ha evolucionado de fabricar coches económicos a ofrecer vehículos con diseño vanguardista, tecnología avanzada y una gama eléctrica líder con IONIQ.",
+    "modelCount": 14,
+    "publishedAt": null
+  },
+  {
+    "slug": "jeep",
+    "name": "Jeep",
+    "country": "Estados Unidos",
+    "founded": "1941",
+    "hq": "Auburn Hills, Michigan, EE.UU.",
+    "description": "Jeep es una marca americana icónica de vehículos todoterreno, parte del grupo Stellantis. Conocida mundialmente por modelos legendarios como el Wrangler y el Cherokee, Jeep ofrece capacidad todoterreno auténtica combinada con confort moderno.",
+    "modelCount": 6,
+    "publishedAt": null
+  },
+  {
+    "slug": "kia",
+    "name": "Kia",
+    "country": "Corea del Sur",
+    "founded": "1944",
+    "hq": "Seúl, Corea del Sur",
+    "description": "Kia Corporation es el segundo fabricante de automóviles de Corea del Sur. Con un diseño renovado bajo la filosofía 'Opposites United' y una gama eléctrica EV creciente, Kia se ha posicionado como una marca moderna y tecnológica en Europa.",
+    "modelCount": 13,
+    "publishedAt": null
+  },
+  {
+    "slug": "land-rover",
+    "name": "Land Rover",
+    "country": "Reino Unido",
+    "founded": "1948",
+    "hq": "Coventry, Reino Unido",
+    "description": "Land Rover es un fabricante británico de vehículos SUV de lujo y todoterreno. Propiedad de Tata Motors, la marca ofrece algunos de los SUV más capaces y lujosos del mundo, desde el Discovery hasta el Range Rover.",
+    "modelCount": 7,
+    "publishedAt": null
+  },
+  {
+    "slug": "mg",
+    "name": "MG",
+    "country": "Reino Unido/China",
+    "founded": "1924",
+    "hq": "Shanghái, China",
+    "description": "MG es una marca británica histórica ahora propiedad del grupo chino SAIC Motor. Relanzada como marca de coches eléctricos y accesibles, MG ofrece vehículos con excelente relación calidad-precio en el mercado europeo.",
+    "modelCount": 8,
+    "publishedAt": null
+  },
+  {
+    "slug": "mini",
+    "name": "MINI",
+    "country": "Reino Unido",
+    "founded": "1959",
+    "hq": "Oxford, Reino Unido",
+    "description": "MINI es una marca británica de automóviles compactos premium, propiedad del Grupo BMW. Con un diseño retro-moderno inconfundible y una conducción go-kart, MINI ofrece personalización extrema y diversión al volante.",
+    "modelCount": 6,
+    "publishedAt": null
+  },
+  {
+    "slug": "mazda",
+    "name": "Mazda",
+    "country": "Japón",
+    "founded": "1920",
+    "hq": "Hiroshima, Japón",
+    "description": "Mazda Motor Corporation es un fabricante japonés conocido por su filosofía de diseño KODO y su tecnología Skyactiv. Los modelos de Mazda destacan por su placer de conducción y un diseño elegante que desafía su segmento de precio.",
+    "modelCount": 10,
+    "publishedAt": null
+  },
+  {
+    "slug": "mercedes-benz",
+    "name": "Mercedes-Benz",
+    "country": "Alemania",
+    "founded": "1926",
+    "hq": "Stuttgart, Alemania",
+    "description": "Mercedes-Benz es un fabricante alemán de automóviles de lujo. Inventora del automóvil moderno en 1886, la marca de la estrella es sinónimo de lujo, seguridad e innovación tecnológica, con una gama desde compactos hasta limusinas y SUV premium.",
+    "modelCount": 22,
+    "publishedAt": null
+  },
+  {
+    "slug": "mitsubishi",
+    "name": "Mitsubishi",
+    "country": "Japón",
+    "founded": "1970",
+    "hq": "Tokio, Japón",
+    "description": "Mitsubishi Motors Corporation es un fabricante japonés que forma parte de la alianza Renault-Nissan-Mitsubishi. Conocida por modelos todoterreno como el Outlander y el L200, Mitsubishi combina capacidad off-road con tecnología híbrida enchufable.",
+    "modelCount": 6,
+    "publishedAt": null
+  },
+  {
+    "slug": "nissan",
+    "name": "Nissan",
+    "country": "Japón",
+    "founded": "1933",
+    "hq": "Yokohama, Japón",
+    "description": "Nissan Motor Co. es uno de los mayores fabricantes de automóviles de Japón. Pionera en vehículos eléctricos con el Leaf, Nissan ofrece una gama completa que incluye SUV populares como el Qashqai y el X-Trail.",
+    "modelCount": 10,
+    "publishedAt": null
+  },
+  {
+    "slug": "opel",
+    "name": "Opel",
+    "country": "Alemania",
+    "founded": "1862",
+    "hq": "Rüsselsheim, Alemania",
+    "description": "Opel es un fabricante alemán de automóviles, parte del grupo Stellantis. Con más de 160 años de historia, Opel ofrece una gama completa de vehículos con buena relación calidad-precio, destacando por su practicidad y tecnología accesible.",
+    "modelCount": 13,
+    "publishedAt": null
+  },
+  {
+    "slug": "peugeot",
+    "name": "Peugeot",
+    "country": "Francia",
+    "founded": "1810",
+    "hq": "París, Francia",
+    "description": "Peugeot es una de las marcas de automóviles más antiguas del mundo. Fundada en 1810 como empresa metalúrgica, comenzó a fabricar coches en 1889. Hoy forma parte del grupo Stellantis y es conocida por su diseño elegante y su i-Cockpit interior.",
+    "modelCount": 14,
+    "publishedAt": null
+  },
+  {
+    "slug": "renault",
+    "name": "Renault",
+    "country": "Francia",
+    "founded": "1899",
+    "hq": "Boulogne-Billancourt, Francia",
+    "description": "Renault es uno de los fabricantes de automóviles más importantes de Europa. Fundada en 1899, la marca francesa es pionera en vehículos eléctricos con la gama E-Tech y conocida por modelos populares como el Clio, el Captur y el Mégane.",
+    "modelCount": 14,
+    "publishedAt": null
+  },
+  {
+    "slug": "seat",
+    "name": "SEAT",
+    "country": "España",
+    "founded": "1950",
+    "hq": "Martorell, España",
+    "description": "SEAT es la única marca española de fabricación de automóviles en serie. Fundada en 1950, con sede en Martorell (Barcelona), es conocida por modelos deportivos y accesibles como el León, el Ibiza y el Arona. Forma parte del Grupo Volkswagen desde 1986.",
+    "modelCount": 8,
+    "publishedAt": null
+  },
+  {
+    "slug": "suzuki",
+    "name": "Suzuki",
+    "country": "Japón",
+    "founded": "1909",
+    "hq": "Hamamatsu, Japón",
+    "description": "Suzuki Motor Corporation es un fabricante japonés especializado en coches compactos, SUV pequeños y motos. En Europa, Suzuki destaca por ofrecer vehículos ligeros, eficientes y con tecnología híbrida a precios competitivos.",
+    "modelCount": 7,
+    "publishedAt": null
+  },
+  {
+    "slug": "tesla",
+    "name": "Tesla",
+    "country": "Estados Unidos",
+    "founded": "2003",
+    "hq": "Austin, Texas, EE.UU.",
+    "description": "Tesla, Inc. es el fabricante de vehículos eléctricos más influyente del mundo. Fundada en 2003 por Elon Musk y otros, Tesla ha revolucionado la industria del automóvil con sus coches 100% eléctricos, tecnología de conducción autónoma y la red Supercharger.",
+    "modelCount": 5,
+    "publishedAt": null
+  },
+  {
+    "slug": "toyota",
+    "name": "Toyota",
+    "country": "Japón",
+    "founded": "1937",
+    "hq": "Toyota City, Japón",
+    "description": "Toyota Motor Corporation es el mayor fabricante de automóviles del mundo por volumen de ventas. Fundada en 1937 por Kiichiro Toyoda, la marca japonesa es conocida por su fiabilidad, eficiencia y liderazgo en tecnología híbrida con modelos como el Prius y el Corolla.",
+    "modelCount": 20,
+    "publishedAt": null
+  },
+  {
+    "slug": "volkswagen",
+    "name": "Volkswagen",
+    "country": "Alemania",
+    "founded": "1937",
+    "hq": "Wolfsburgo, Alemania",
+    "description": "Volkswagen es una de las marcas de automóviles más vendidas en Europa y el mundo. Fundada en 1937, la marca alemana es reconocida por modelos icónicos como el Golf, el Polo y el Tiguan, combinando ingeniería alemana con accesibilidad.",
+    "modelCount": 19,
+    "publishedAt": null
+  },
+  {
+    "slug": "volvo",
+    "name": "Volvo",
+    "country": "Suecia",
+    "founded": "1927",
+    "hq": "Gotemburgo, Suecia",
+    "description": "Volvo Cars es un fabricante sueco de automóviles premium. Propiedad del grupo chino Geely, Volvo es sinónimo de seguridad, diseño escandinavo minimalista y un compromiso firme con la electrificación y la sostenibilidad.",
+    "modelCount": 12,
+    "publishedAt": null
+  },
+  {
+    "slug": "skoda",
+    "name": "Škoda",
+    "country": "República Checa",
+    "founded": "1895",
+    "hq": "Mladá Boleslav, R. Checa",
+    "description": "Škoda Auto es un fabricante checo de automóviles, parte del Grupo Volkswagen desde 1991. Conocida por ofrecer vehículos espaciosos, bien equipados y con excelente relación calidad-precio, es una de las marcas de mayor crecimiento en Europa.",
+    "modelCount": 11,
+    "publishedAt": null
+  }
+]

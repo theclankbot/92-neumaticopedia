@@ -1,0 +1,47 @@
+
+@import "tailwindcss";
+
+:root {
+  --color-navy: #1a2332;
+  --color-blue: #2563eb;
+  --color-blue-light: #3b82f6;
+}
+
+body {
+  font-family: var(--font-inter), system-ui, -apple-system, sans-serif;
+}
+
+/* Responsive tables */
+.table-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Spec tables */
+.spec-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.spec-table th,
+.spec-table td {
+  padding: 0.625rem 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 0.875rem;
+}
+
+.spec-table th {
+  font-weight: 600;
+  color: #374151;
+  background-color: #f9fafb;
+  white-space: nowrap;
+}
+
+.spec-table tr:nth-child(even) {
+  background-color: #f9fafb;
+}
+
+.spec-table tr:hover {
+  background-color: #eff6ff;
+}

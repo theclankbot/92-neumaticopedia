@@ -1,0 +1,2738 @@
+{
+  "alfa romeo::giulia": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg/1280px-Alfa_952_26.06.19_JM_%281%29_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulia_(2015)",
+    "imageTitle": "Alfa Romeo Giulia (2015)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Alfa Romeo Giulia\" car"
+  },
+  "alfa romeo::stelvio": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Alfa_Romeo_Stelvio_Suv_Free_Car_Picture_-_Give_Credit_Via_Link.%28cropped%29.jpg/1280px-Alfa_Romeo_Stelvio_Suv_Free_Car_Picture_-_Give_Credit_Via_Link.%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Alfa_Romeo_Stelvio",
+    "imageTitle": "Alfa Romeo Stelvio",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Alfa Romeo Stelvio\" car"
+  },
+  "alfa romeo::tonale": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2023-AR-Tonale-01_%28bearb_Sp_2%29.jpg/1280px-2023-AR-Tonale-01_%28bearb_Sp_2%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Alfa_Romeo_Tonale",
+    "imageTitle": "Alfa Romeo Tonale",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Alfa Romeo Tonale\" car"
+  },
+  "alfa romeo::junior": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Alfa_Romeo_GT_1300_Junior.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Alfa_Romeo_105/115_Series_Coup%C3%A9s",
+    "imageTitle": "Alfa Romeo 105/115 Series Coupés",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Alfa Romeo Junior\" car"
+  },
+  "alfa romeo::giulietta": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2013_Alfa_Romeo_Giulietta_%28940_MY13%29_Distinctive_hatchback_%282015-07-09%29.jpg/1280px-2013_Alfa_Romeo_Giulietta_%28940_MY13%29_Distinctive_hatchback_%282015-07-09%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Alfa_Romeo_Giulietta_(2010)",
+    "imageTitle": "Alfa Romeo Giulietta (2010)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Alfa Romeo Giulietta\" car"
+  },
+  "audi::a1": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2019_Audi_A1_S_Line_30_TFSi_1.0.jpg/1280px-2019_Audi_A1_S_Line_30_TFSi_1.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_A1",
+    "imageTitle": "Audi A1",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi A1\" car"
+  },
+  "audi::a3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Audi_A3_8Y_Sedan_IMG_5936.jpg/1280px-Audi_A3_8Y_Sedan_IMG_5936.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_A3",
+    "imageTitle": "Audi A3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi A3\" car"
+  },
+  "audi::a4": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Audi_A4_B9_sedans_%28FL%29_1X7A2441.jpg/1280px-Audi_A4_B9_sedans_%28FL%29_1X7A2441.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_A4",
+    "imageTitle": "Audi A4",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi A4\" car"
+  },
+  "audi::a5": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Audi_A5_B10_DSC_7314.jpg/1280px-Audi_A5_B10_DSC_7314.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_A5",
+    "imageTitle": "Audi A5",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi A5\" car"
+  },
+  "audi::a6": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Audi_A6_C9_IAA_2025_DSC_1920.jpg/1280px-Audi_A6_C9_IAA_2025_DSC_1920.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_A6",
+    "imageTitle": "Audi A6",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi A6\" car"
+  },
+  "audi::a7": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg/1280px-2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_A7",
+    "imageTitle": "Audi A7",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi A7\" car"
+  },
+  "audi::a8": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2018_Audi_A8_50_TDi_Quattro_Automatic_3.0.jpg/1280px-2018_Audi_A8_50_TDi_Quattro_Automatic_3.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_A8",
+    "imageTitle": "Audi A8",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi A8\" car"
+  },
+  "audi::q2": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2017_Audi_Q2_Sport_TDi_1.6_Front.jpg/1280px-2017_Audi_Q2_Sport_TDi_1.6_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_Q2",
+    "imageTitle": "Audi Q2",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi Q2\" car"
+  },
+  "audi::q3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Audi_Q3_F3_DSC_7494.jpg/1280px-Audi_Q3_F3_DSC_7494.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_Q3",
+    "imageTitle": "Audi Q3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi Q3\" car"
+  },
+  "audi::q4 e-tron": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2021_Audi_Q4_e-tron_Sport_35.jpg/1280px-2021_Audi_Q4_e-tron_Sport_35.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_Q4_e-tron",
+    "imageTitle": "Audi Q4 e-tron",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi Q4 e-tron\" car"
+  },
+  "audi::q5": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Audi_Q5_2.0_TDI_quattro_S_line_%28GU%29_%E2%80%93_f_13102025.jpg/1280px-Audi_Q5_2.0_TDI_quattro_S_line_%28GU%29_%E2%80%93_f_13102025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_Q5",
+    "imageTitle": "Audi Q5",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi Q5\" car"
+  },
+  "audi::q6 e-tron": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Audi_Q6_e-tron_DSC_7829.jpg/1280px-Audi_Q6_e-tron_DSC_7829.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_Q6_e-tron",
+    "imageTitle": "Audi Q6 e-tron",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi Q6 e-tron\" car"
+  },
+  "audi::q7": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Audi_Q7_4M_FL2_3.0_V6_MHEV_quattro_Satellite_Silver_Metallic_01_%28cropped%29.jpg/1280px-Audi_Q7_4M_FL2_3.0_V6_MHEV_quattro_Satellite_Silver_Metallic_01_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_Q7",
+    "imageTitle": "Audi Q7",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi Q7\" car"
+  },
+  "audi::q8": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2018_Audi_Q8_S_Line_50_TDi_Quattro_3.0_Front.jpg/1280px-2018_Audi_Q8_S_Line_50_TDi_Quattro_3.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_Q8",
+    "imageTitle": "Audi Q8",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi Q8\" car"
+  },
+  "audi::q8 e-tron": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2020_Audi_e-Tron_Sport_50_Quattro.jpg/1280px-2020_Audi_e-Tron_Sport_50_Quattro.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_Q8_e-tron",
+    "imageTitle": "Audi Q8 e-tron",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi Q8 e-tron\" car"
+  },
+  "audi::e-tron gt": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Audi_e-tron_GT_IMG_5689.jpg/1280px-Audi_e-tron_GT_IMG_5689.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_e-tron_GT",
+    "imageTitle": "Audi e-tron GT",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi e-tron GT\" car"
+  },
+  "audi::tt": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2019_Audi_TT_Sport_40_TFSi_S-A_2.0_Front.jpg/1280px-2019_Audi_TT_Sport_40_TFSi_S-A_2.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_TT",
+    "imageTitle": "Audi TT",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi TT\" car"
+  },
+  "audi::rs3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Audi_A3_8Y_Sedan_IMG_5936.jpg/1280px-Audi_A3_8Y_Sedan_IMG_5936.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_A3",
+    "imageTitle": "Audi A3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi RS3\" car"
+  },
+  "audi::rs6": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2021_Audi_RS6_Avant_in_Nardo_Gray%2C_front_right.jpg/1280px-2021_Audi_RS6_Avant_in_Nardo_Gray%2C_front_right.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_RS_6",
+    "imageTitle": "Audi RS 6",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi RS6\" car"
+  },
+  "audi::s3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Audi_A3_8Y_Sedan_IMG_5936.jpg/1280px-Audi_A3_8Y_Sedan_IMG_5936.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Audi_A3",
+    "imageTitle": "Audi A3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Audi S3\" car"
+  },
+  "bmw::serie 1": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/BMW_1_Series_Sedan_%28F52%3B_China%29.jpg/1280px-BMW_1_Series_Sedan_%28F52%3B_China%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_1_Series_(F52)",
+    "imageTitle": "BMW 1 Series (F52)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW Serie 1\" car"
+  },
+  "bmw::serie 2 active tourer": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/BMW_1_Series_Sedan_%28F52%3B_China%29.jpg/1280px-BMW_1_Series_Sedan_%28F52%3B_China%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_1_Series_(F52)",
+    "imageTitle": "BMW 1 Series (F52)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "BMW Serie 2 Active Tourer car"
+  },
+  "bmw::serie 2 coupé": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BMW_E46_front_20080328.jpg/1280px-BMW_E46_front_20080328.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_3_Series_(E46)",
+    "imageTitle": "BMW 3 Series (E46)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "BMW Serie 2 Coupé car"
+  },
+  "bmw::serie 2 gran coupé": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Festival_automobile_international_2014_-_BMW_Gran_Lusso_Pininfarina_-_015.jpg/1280px-Festival_automobile_international_2014_-_BMW_Gran_Lusso_Pininfarina_-_015.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_Pininfarina_Gran_Lusso_Coup%C3%A9",
+    "imageTitle": "BMW Pininfarina Gran Lusso Coupé",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "BMW Serie 2 Gran Coupé car"
+  },
+  "bmw::serie 3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BMW_E46_front_20080328.jpg/1280px-BMW_E46_front_20080328.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_3_Series_(E46)",
+    "imageTitle": "BMW 3 Series (E46)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW Serie 3\" car"
+  },
+  "bmw::serie 4": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_BMW_X5_M50d_Automatic_3.0.jpg/1280px-2019_BMW_X5_M50d_Automatic_3.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_X5",
+    "imageTitle": "BMW X5",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "BMW Serie 4 car"
+  },
+  "bmw::serie 5": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BMW_E46_front_20080328.jpg/1280px-BMW_E46_front_20080328.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_3_Series_(E46)",
+    "imageTitle": "BMW 3 Series (E46)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "BMW Serie 5 car"
+  },
+  "bmw::serie 7": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2019_BMW_318d_SE_Automatic_2.0_Front.jpg/1280px-2019_BMW_318d_SE_Automatic_2.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_3_Series_(G20)",
+    "imageTitle": "BMW 3 Series (G20)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "BMW Serie 7 car"
+  },
+  "bmw::x1": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BMW_U11_1X7A6826.jpg/1280px-BMW_U11_1X7A6826.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_X1",
+    "imageTitle": "BMW X1",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW X1\" car"
+  },
+  "bmw::x2": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BMW_U10_1X7A2456.jpg/1280px-BMW_U10_1X7A2456.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_X2",
+    "imageTitle": "BMW X2",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW X2\" car"
+  },
+  "bmw::x3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BMW_G45_20_IMG_3794.jpg/1280px-BMW_G45_20_IMG_3794.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_X3",
+    "imageTitle": "BMW X3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW X3\" car"
+  },
+  "bmw::x4": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2018_BMW_X4_xDrive20d_M_Sport_Automatic_2.0.jpg/1280px-2018_BMW_X4_xDrive20d_M_Sport_Automatic_2.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_X4",
+    "imageTitle": "BMW X4",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW X4\" car"
+  },
+  "bmw::x5": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_BMW_X5_M50d_Automatic_3.0.jpg/1280px-2019_BMW_X5_M50d_Automatic_3.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_X5",
+    "imageTitle": "BMW X5",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW X5\" car"
+  },
+  "bmw::x6": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/BMW_G06_IMG_3142.jpg/1280px-BMW_G06_IMG_3142.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_X6",
+    "imageTitle": "BMW X6",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW X6\" car"
+  },
+  "bmw::x7": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BMW_G07_1X7A1696.jpg/1280px-BMW_G07_1X7A1696.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_X7",
+    "imageTitle": "BMW X7",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW X7\" car"
+  },
+  "bmw::xm": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BMW_XM_%28G09%29_IMG_7778.jpg/1280px-BMW_XM_%28G09%29_IMG_7778.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_XM",
+    "imageTitle": "BMW XM",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW XM\" car"
+  },
+  "bmw::ix1": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/2022_BMW_X1_sDrive18d_M_Sport_MHEV_Automatic_2.0.jpg/1280px-2022_BMW_X1_sDrive18d_M_Sport_MHEV_Automatic_2.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_X1_(U11)",
+    "imageTitle": "BMW X1 (U11)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW iX1\" car"
+  },
+  "bmw::ix3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BMW_G45_20_IMG_3794.jpg/1280px-BMW_G45_20_IMG_3794.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_X3",
+    "imageTitle": "BMW X3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW iX3\" car"
+  },
+  "bmw::ix": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/BMW_iX_IAA_2021_1X7A0204.jpg/1280px-BMW_iX_IAA_2021_1X7A0204.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_iX",
+    "imageTitle": "BMW iX",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW iX\" car"
+  },
+  "bmw::i4": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BMW_i4_IMG_6695.jpg/1280px-BMW_i4_IMG_6695.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_i4",
+    "imageTitle": "BMW i4",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW i4\" car"
+  },
+  "bmw::i5": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BMW_G60_520i_1X7A2443.jpg/1280px-BMW_G60_520i_1X7A2443.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_5_Series_(G60)",
+    "imageTitle": "BMW 5 Series (G60)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW i5\" car"
+  },
+  "bmw::i7": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BMW_7-Series_%28G70%29_750e_IMG_9358.jpg/1280px-BMW_7-Series_%28G70%29_750e_IMG_9358.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_7_Series_(G70)",
+    "imageTitle": "BMW 7 Series (G70)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW i7\" car"
+  },
+  "bmw::z4": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BMW_G29_Z4_M40i_%28Facelift%29_1X7A6946.jpg/1280px-BMW_G29_Z4_M40i_%28Facelift%29_1X7A6946.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_Z",
+    "imageTitle": "BMW Z",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW Z4\" car"
+  },
+  "bmw::m3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BMW_M3_Competition_%28G80%29_IMG_4041.jpg/1280px-BMW_M3_Competition_%28G80%29_IMG_4041.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_M3",
+    "imageTitle": "BMW M3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW M3\" car"
+  },
+  "bmw::m4": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2021_BMW_M4_Competition_Automatic_3.0_Front.jpg/1280px-2021_BMW_M4_Competition_Automatic_3.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/BMW_M4",
+    "imageTitle": "BMW M4",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"BMW M4\" car"
+  },
+  "cupra::formentor": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cupra_Formentor_IMG_9668.jpg/1280px-Cupra_Formentor_IMG_9668.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Cupra_Formentor",
+    "imageTitle": "Cupra Formentor",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"CUPRA Formentor\" car"
+  },
+  "cupra::born": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cupra_Born_IMG_8234.jpg/1280px-Cupra_Born_IMG_8234.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Cupra_Born",
+    "imageTitle": "Cupra Born",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"CUPRA Born\" car"
+  },
+  "cupra::leon": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2020_SEAT_Leon_FR_TSi_Evo_1.5_Front.jpg/1280px-2020_SEAT_Leon_FR_TSi_Evo_1.5_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/SEAT_Le%C3%B3n",
+    "imageTitle": "SEAT León",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"CUPRA Leon\" car"
+  },
+  "cupra::terramar": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cupra_Terramar_VZ_DSC_8241.jpg/1280px-Cupra_Terramar_VZ_DSC_8241.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Cupra_Terramar",
+    "imageTitle": "Cupra Terramar",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"CUPRA Terramar\" car"
+  },
+  "cupra::tavascan": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cupra_Tavascan_Leonberg_2024_IMG_0881.jpg/1280px-Cupra_Tavascan_Leonberg_2024_IMG_0881.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Cupra_Tavascan",
+    "imageTitle": "Cupra Tavascan",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"CUPRA Tavascan\" car"
+  },
+  "cupra::ateca": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2017_SEAT_Ateca_Xcellence_1.4_Front.jpg/1280px-2017_SEAT_Ateca_Xcellence_1.4_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/SEAT_Ateca",
+    "imageTitle": "SEAT Ateca",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"CUPRA Ateca\" car"
+  },
+  "citroën::c3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rally_Italia_Sardegna_2018_-_Lefebvre-Moreau2.jpg/1280px-Rally_Italia_Sardegna_2018_-_Lefebvre-Moreau2.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_C3_R5/Rally2",
+    "imageTitle": "Citroën C3 R5/Rally2",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Citroën C3\" car"
+  },
+  "citroën::c3 aircross": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Citro%C3%ABn_%C3%AB-C3_Aircross_IMG_3525.jpg/1280px-Citro%C3%ABn_%C3%AB-C3_Aircross_IMG_3525.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_C3_Aircross",
+    "imageTitle": "Citroën C3 Aircross",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Citroën C3 Aircross\" car"
+  },
+  "citroën::c4": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Citroen_C4_%282020%29_1X7A5851.jpg/1280px-Citroen_C4_%282020%29_1X7A5851.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_C4",
+    "imageTitle": "Citroën C4",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Citroën C4\" car"
+  },
+  "citroën::c4 x": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Citroen_C4_%282020%29_1X7A5851.jpg/1280px-Citroen_C4_%282020%29_1X7A5851.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_C4",
+    "imageTitle": "Citroën C4",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Citroën C4 X\" car"
+  },
+  "citroën::c5 aircross": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2022_Citro%C3%ABn_C5_Aircross_Automesse_Ludwigsburg_2024_IMG_1342.jpg/1280px-2022_Citro%C3%ABn_C5_Aircross_Automesse_Ludwigsburg_2024_IMG_1342.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_C5_Aircross",
+    "imageTitle": "Citroën C5 Aircross",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Citroën C5 Aircross\" car"
+  },
+  "citroën::c5 x": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Citro%C3%ABn_C5_X_1X7A1546.jpg/1280px-Citro%C3%ABn_C5_X_1X7A1546.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_C5_X",
+    "imageTitle": "Citroën C5 X",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Citroën C5 X\" car"
+  },
+  "citroën::berlingo": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Citro%C3%ABn_Berlingo_XL_BlueHDi_130_EAT8_Shine_XTR_%28III%29_%E2%80%93_f_02012021.jpg/1280px-Citro%C3%ABn_Berlingo_XL_BlueHDi_130_EAT8_Shine_XTR_%28III%29_%E2%80%93_f_02012021.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Berlingo",
+    "imageTitle": "Citroën Berlingo",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Citroën Berlingo\" car"
+  },
+  "citroën::spacetourer": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg/1280px-2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Jumpy",
+    "imageTitle": "Citroën Jumpy",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Citroën SpaceTourer\" car"
+  },
+  "citroën::ë-c3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DS_3_Crossback_PureTech_155_EAT8_So_Chic_%E2%80%93_f_25072020.jpg/1280px-DS_3_Crossback_PureTech_155_EAT8_So_Chic_%E2%80%93_f_25072020.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Common_Modular_Platform",
+    "imageTitle": "Common Modular Platform",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Citroën ë-C3\" car"
+  },
+  "citroën::ë-c4": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Citroen_C4_%282020%29_1X7A5851.jpg/1280px-Citroen_C4_%282020%29_1X7A5851.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_C4",
+    "imageTitle": "Citroën C4",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Citroën ë-C4\" car"
+  },
+  "citroën::c4 picasso": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2015_Citro%C3%ABn_C4_Picasso_%28B7_MY15%29_Exclusive_e-THP_wagon_%282015-06-15%29_01.jpg/1280px-2015_Citro%C3%ABn_C4_Picasso_%28B7_MY15%29_Exclusive_e-THP_wagon_%282015-06-15%29_01.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_C4_Picasso",
+    "imageTitle": "Citroën C4 Picasso",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Citroën C4 Picasso\" car"
+  },
+  "citroën::c-elysée": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/2016_Dongfeng-Citro%C3%ABn_C-Elys%C3%A9e%2C_front_8.5.18.jpg/1280px-2016_Dongfeng-Citro%C3%ABn_C-Elys%C3%A9e%2C_front_8.5.18.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_C-Elys%C3%A9e",
+    "imageTitle": "Citroën C-Elysée",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Citroën C-Elysée\" car"
+  },
+  "ds::ds 3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DS_3_Crossback_PureTech_155_EAT8_So_Chic_%E2%80%93_f_25072020.jpg/1280px-DS_3_Crossback_PureTech_155_EAT8_So_Chic_%E2%80%93_f_25072020.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/DS_3",
+    "imageTitle": "DS 3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "DS DS 3 car"
+  },
+  "ds::ds 4": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Citro%C3%ABn_DS4_SoChic_%E2%80%93_Frontansicht%2C_16._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg/1280px-Citro%C3%ABn_DS4_SoChic_%E2%80%93_Frontansicht%2C_16._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/DS_4",
+    "imageTitle": "DS 4",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "DS DS 4 car"
+  },
+  "ds::ds 7": {
+    "imageUrl": null,
+    "imagePageUrl": null,
+    "imageTitle": null,
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": null
+  },
+  "ds::ds 9": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2022_DS_9_Rivoli_Plus_E-Tense_PHEV_-_1598cc_1.6_%28225PS%29_Petrol_Hybrid_-_Black_-_05-2023%2C_Front.jpg/1280px-2022_DS_9_Rivoli_Plus_E-Tense_PHEV_-_1598cc_1.6_%28225PS%29_Petrol_Hybrid_-_Black_-_05-2023%2C_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/DS_9",
+    "imageTitle": "DS 9",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"DS DS 9\" car"
+  },
+  "ds::ds 3 crossback": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DS_3_Crossback_PureTech_155_EAT8_So_Chic_%E2%80%93_f_25072020.jpg/1280px-DS_3_Crossback_PureTech_155_EAT8_So_Chic_%E2%80%93_f_25072020.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/DS_3",
+    "imageTitle": "DS 3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "DS DS 3 Crossback car"
+  },
+  "ds::ds 7 crossback": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2018_DS_7_Crossback_Ultra_Prestige_PTC_1.6_Front.jpg/1280px-2018_DS_7_Crossback_Ultra_Prestige_PTC_1.6_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/DS_7_(crossover)",
+    "imageTitle": "DS 7 (crossover)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "DS DS 7 Crossback car"
+  },
+  "dacia::sandero": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2023_Dacia_Sandero_III_DSC_6012.jpg/1280px-2023_Dacia_Sandero_III_DSC_6012.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Dacia_Sandero",
+    "imageTitle": "Dacia Sandero",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Dacia Sandero\" car"
+  },
+  "dacia::sandero stepway": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2023_Dacia_Sandero_III_DSC_6012.jpg/1280px-2023_Dacia_Sandero_III_DSC_6012.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Dacia_Sandero",
+    "imageTitle": "Dacia Sandero",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Dacia Sandero Stepway\" car"
+  },
+  "dacia::duster": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Dacia_Duster_TCe_130_Extreme_%28III%29_%E2%80%93_f_13102024.jpg/1280px-Dacia_Duster_TCe_130_Extreme_%28III%29_%E2%80%93_f_13102024.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Dacia_Duster",
+    "imageTitle": "Dacia Duster",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Dacia Duster\" car"
+  },
+  "dacia::jogger": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2023_Dacia_Jogger_DSC_7288.jpg/1280px-2023_Dacia_Jogger_DSC_7288.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Dacia_Jogger",
+    "imageTitle": "Dacia Jogger",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Dacia Jogger\" car"
+  },
+  "dacia::spring": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2023_Renault_Kwid_Iconic_%28Colombia%29_front_view_01.png/1280px-2023_Renault_Kwid_Iconic_%28Colombia%29_front_view_01.png",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Kwid",
+    "imageTitle": "Renault Kwid",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Dacia Spring\" car"
+  },
+  "dacia::bigster": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dacia_Bigster_front.png",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Dacia_Bigster_(concept_car)",
+    "imageTitle": "Dacia Bigster (concept car)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Dacia Bigster\" car"
+  },
+  "dacia::logan": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Dacia_Logan_2023_Front_2_%28cropped%29.jpg/1280px-Dacia_Logan_2023_Front_2_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Dacia_Logan",
+    "imageTitle": "Dacia Logan",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Dacia Logan\" car"
+  },
+  "dacia::lodgy": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dacia_Lodgy%2C_Schaffen_Diest_Fly-Drive_2013.JPG/1280px-Dacia_Lodgy%2C_Schaffen_Diest_Fly-Drive_2013.JPG",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Dacia_Lodgy",
+    "imageTitle": "Dacia Lodgy",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Dacia Lodgy\" car"
+  },
+  "dacia::dokker": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2012_Dacia_Dokker.JPG/1280px-2012_Dacia_Dokker.JPG",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Dacia_Dokker",
+    "imageTitle": "Dacia Dokker",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Dacia Dokker\" car"
+  },
+  "fiat::500": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/1970_Fiat_500_L_--_2011_DC_1.jpg/1280px-1970_Fiat_500_L_--_2011_DC_1.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Fiat_500",
+    "imageTitle": "Fiat 500",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Fiat 500\" car"
+  },
+  "fiat::500x": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2017_Fiat_500X_POP_Star_Multiair_1.4_Front.jpg/1280px-2017_Fiat_500X_POP_Star_Multiair_1.4_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Fiat_500X",
+    "imageTitle": "Fiat 500X",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Fiat 500X\" car"
+  },
+  "fiat::panda": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2013_Fiat_Panda_Easy_1.2.jpg/1280px-2013_Fiat_Panda_Easy_1.2.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Fiat_Panda",
+    "imageTitle": "Fiat Panda",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Fiat Panda\" car"
+  },
+  "fiat::tipo": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Fiat_Tipo_Sedan_Facelift_Leonberg_2022_1X7A0412.jpg/1280px-Fiat_Tipo_Sedan_Facelift_Leonberg_2022_1X7A0412.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Fiat_Tipo_(2015)",
+    "imageTitle": "Fiat Tipo (2015)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Fiat Tipo\" car"
+  },
+  "fiat::600": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Fiat_600_at_Schaffen-Diest.jpg/1280px-Fiat_600_at_Schaffen-Diest.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Fiat_600",
+    "imageTitle": "Fiat 600",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Fiat 600\" car"
+  },
+  "fiat::grande panda": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Fiat_Grande_Panda_Elektro_La_Prima_%E2%80%93_f_01062025.jpg/1280px-Fiat_Grande_Panda_Elektro_La_Prima_%E2%80%93_f_01062025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Fiat_Grande_Panda",
+    "imageTitle": "Fiat Grande Panda",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Fiat Grande Panda\" car"
+  },
+  "fiat::doblò": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Fiat_Doblo_%2822707961995%29.jpg/1280px-Fiat_Doblo_%2822707961995%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Fiat_Dobl%C3%B2",
+    "imageTitle": "Fiat Doblò",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Fiat Doblò\" car"
+  },
+  "fiat::scudo": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg/1280px-2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Jumpy",
+    "imageTitle": "Citroën Jumpy",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Fiat Scudo\" car"
+  },
+  "fiat::ducato": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fiat_e-Ducato_1X7A0350.jpg/1280px-Fiat_e-Ducato_1X7A0350.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Fiat_Ducato",
+    "imageTitle": "Fiat Ducato",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Fiat Ducato\" car"
+  },
+  "fiat::500l": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2014_Fiat_500L_Lounge_1.4.jpg/1280px-2014_Fiat_500L_Lounge_1.4.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Fiat_500L",
+    "imageTitle": "Fiat 500L",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Fiat 500L\" car"
+  },
+  "fiat::124 spider": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fiat_124_Spider_1368cc_registered_September_2016.jpg/1280px-Fiat_124_Spider_1368cc_registered_September_2016.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Fiat_124_Spider_(2016)",
+    "imageTitle": "Fiat 124 Spider (2016)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Fiat 124 Spider\" car"
+  },
+  "ford::puma": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2020_Ford_Puma_Titanium_EcoBoost_Hybrid_1.0_Front.jpg/1280px-2020_Ford_Puma_Titanium_EcoBoost_Hybrid_1.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Puma_(crossover)",
+    "imageTitle": "Ford Puma (crossover)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Puma\" car"
+  },
+  "ford::kuga": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/2020_Ford_Kuga_Titanium_First_Edition_EcoBlue_1.5.jpg/1280px-2020_Ford_Kuga_Titanium_First_Edition_EcoBlue_1.5.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Kuga",
+    "imageTitle": "Ford Kuga",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Kuga\" car"
+  },
+  "ford::focus": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Ford_Focus_ST-Line_X_1.0.jpg/1280px-2018_Ford_Focus_ST-Line_X_1.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Focus",
+    "imageTitle": "Ford Focus",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Focus\" car"
+  },
+  "ford::fiesta": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ford_Fiesta_ST-Line_%28VII%2C_Facelift%29_%E2%80%93_f_30012023.jpg/1280px-Ford_Fiesta_ST-Line_%28VII%2C_Facelift%29_%E2%80%93_f_30012023.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Fiesta",
+    "imageTitle": "Ford Fiesta",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Fiesta\" car"
+  },
+  "ford::mustang mach-e": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2021_Ford_Mustang_Mach-E_Standard_Range_Front.jpg/1280px-2021_Ford_Mustang_Mach-E_Standard_Range_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Mustang_Mach-E",
+    "imageTitle": "Ford Mustang Mach-E",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Mustang Mach-E\" car"
+  },
+  "ford::explorer": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Ford_Explorer_%28sixth_generation%29_IMG_6063.jpg/1280px-Ford_Explorer_%28sixth_generation%29_IMG_6063.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Explorer",
+    "imageTitle": "Ford Explorer",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Explorer\" car"
+  },
+  "ford::tourneo connect": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ford_Transit_Connect_%283rd_generation%29_IMG_3395.jpg/1280px-Ford_Transit_Connect_%283rd_generation%29_IMG_3395.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Transit_Connect",
+    "imageTitle": "Ford Transit Connect",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Tourneo Connect\" car"
+  },
+  "ford::tourneo courier": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2024_Ford_Transit_Courier_Limited_-_Cactus_Grey_-_03-02-2024%2C_Front_Left.jpg/1280px-2024_Ford_Transit_Courier_Limited_-_Cactus_Grey_-_03-02-2024%2C_Front_Left.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Transit_Courier",
+    "imageTitle": "Ford Transit Courier",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Tourneo Courier\" car"
+  },
+  "ford::transit": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2016_Ford_Transit_350_2.2.jpg/1280px-2016_Ford_Transit_350_2.2.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Transit",
+    "imageTitle": "Ford Transit",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Transit\" car"
+  },
+  "ford::transit connect": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ford_Transit_Connect_%283rd_generation%29_IMG_3395.jpg/1280px-Ford_Transit_Connect_%283rd_generation%29_IMG_3395.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Transit_Connect",
+    "imageTitle": "Ford Transit Connect",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Transit Connect\" car"
+  },
+  "ford::transit custom": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2024_Ford_Transit_Custom_Limited_TDCi_-_1996cc_2.0_%28136PS%29_Diesel_-_Artisan_Red_-_08-2024%2C_Front.jpg/1280px-2024_Ford_Transit_Custom_Limited_TDCi_-_1996cc_2.0_%28136PS%29_Diesel_-_Artisan_Red_-_08-2024%2C_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Transit_Custom",
+    "imageTitle": "Ford Transit Custom",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Transit Custom\" car"
+  },
+  "ford::transit courier": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2024_Ford_Transit_Courier_Limited_-_Cactus_Grey_-_03-02-2024%2C_Front_Left.jpg/1280px-2024_Ford_Transit_Courier_Limited_-_Cactus_Grey_-_03-02-2024%2C_Front_Left.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Transit_Courier",
+    "imageTitle": "Ford Transit Courier",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Transit Courier\" car"
+  },
+  "ford::ranger": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ford_Ranger_2.0_EcoBlue_4WD_Wildtrak_X_%28IV%29_%E2%80%93_f_12102024.jpg/1280px-Ford_Ranger_2.0_EcoBlue_4WD_Wildtrak_X_%28IV%29_%E2%80%93_f_12102024.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Ranger_(T6)",
+    "imageTitle": "Ford Ranger (T6)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Ranger\" car"
+  },
+  "ford::bronco": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/2021_Ford_Bronco_Sport_Big_Bend%2C_front_3.15.21.jpg/1280px-2021_Ford_Bronco_Sport_Big_Bend%2C_front_3.15.21.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Bronco_Sport",
+    "imageTitle": "Ford Bronco Sport",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Bronco\" car"
+  },
+  "ford::mustang": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2018_Ford_Mustang_GT_5.0.jpg/1280px-2018_Ford_Mustang_GT_5.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Ford_Mustang",
+    "imageTitle": "Ford Mustang",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Ford Mustang\" car"
+  },
+  "honda::civic": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Honda_Civic_e-HEV_Sport_%28XI%29_%E2%80%93_f_30062024.jpg/1280px-Honda_Civic_e-HEV_Sport_%28XI%29_%E2%80%93_f_30062024.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Honda_Civic",
+    "imageTitle": "Honda Civic",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Honda Civic\" car"
+  },
+  "honda::cr-v": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Honda_CR-V_e-HEV_Elegance_AWD_%28VI%29_%E2%80%93_f_14072024.jpg/1280px-Honda_CR-V_e-HEV_Elegance_AWD_%28VI%29_%E2%80%93_f_14072024.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Honda_CR-V",
+    "imageTitle": "Honda CR-V",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Honda CR-V\" car"
+  },
+  "honda::hr-v": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2023_Honda_HR-V_Advance_i-MMD_CVT_1.5.jpg/1280px-2023_Honda_HR-V_Advance_i-MMD_CVT_1.5.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Honda_HR-V",
+    "imageTitle": "Honda HR-V",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Honda HR-V\" car"
+  },
+  "honda::jazz": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Honda_Jazz_Hybrid_Executive_%28IV%29_%E2%80%93_f_18102020.jpg/1280px-Honda_Jazz_Hybrid_Executive_%28IV%29_%E2%80%93_f_18102020.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Honda_Fit",
+    "imageTitle": "Honda Fit",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Honda Jazz\" car"
+  },
+  "honda::zr-v": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Honda_ZR-V_e-HEV_Advance_%E2%80%93_f_14072024.jpg/1280px-Honda_ZR-V_e-HEV_Advance_%E2%80%93_f_14072024.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Honda_ZR-V",
+    "imageTitle": "Honda ZR-V",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Honda ZR-V\" car"
+  },
+  "honda::e:ny1": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Honda_e_Advance_%E2%80%93_f_18102020.jpg/1280px-Honda_e_Advance_%E2%80%93_f_18102020.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Honda_e",
+    "imageTitle": "Honda e",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "Honda e:Ny1 car"
+  },
+  "honda::honda e": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Honda_CR-V_e-HEV_Elegance_AWD_%28VI%29_%E2%80%93_f_14072024.jpg/1280px-Honda_CR-V_e-HEV_Elegance_AWD_%28VI%29_%E2%80%93_f_14072024.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Honda_CR-V_(sixth_generation)",
+    "imageTitle": "Honda CR-V (sixth generation)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "Honda Honda e car"
+  },
+  "honda::civic type r": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2024_Honda_Civic_Type_R%2C_front_right%2C_06-15-2024.jpg/1280px-2024_Honda_Civic_Type_R%2C_front_right%2C_06-15-2024.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Honda_Civic_Type_R",
+    "imageTitle": "Honda Civic Type R",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Honda Civic Type R\" car"
+  },
+  "hyundai::tucson": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2022_Hyundai_Tucson_Preferred%2C_Front_Right%2C_05-24-2021.jpg/1280px-2022_Hyundai_Tucson_Preferred%2C_Front_Right%2C_05-24-2021.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_Tucson",
+    "imageTitle": "Hyundai Tucson",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai Tucson\" car"
+  },
+  "hyundai::kona": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hyundai_Kona_N_Line_%28SX2%29_DSC_8250.jpg/1280px-Hyundai_Kona_N_Line_%28SX2%29_DSC_8250.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_Kona",
+    "imageTitle": "Hyundai Kona",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai Kona\" car"
+  },
+  "hyundai::i20": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oliver_at_the_2021_Arctic_Rally.jpg/1280px-Oliver_at_the_2021_Arctic_Rally.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_i20_Coupe_WRC",
+    "imageTitle": "Hyundai i20 Coupe WRC",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai i20\" car"
+  },
+  "hyundai::i30": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2018_Hyundai_i30_SE_Nav_T-GDi_1.3_Front.jpg/1280px-2018_Hyundai_i30_SE_Nav_T-GDi_1.3_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_i30",
+    "imageTitle": "Hyundai i30",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai i30\" car"
+  },
+  "hyundai::ioniq 5": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg/1280px-Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5",
+    "imageTitle": "Hyundai Ioniq 5",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai IONIQ 5\" car"
+  },
+  "hyundai::ioniq 6": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2023_Hyundai_Ioniq_6_Limited%2C_front_4.27.23.jpg/1280px-2023_Hyundai_Ioniq_6_Limited%2C_front_4.27.23.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_Ioniq_6",
+    "imageTitle": "Hyundai Ioniq 6",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai IONIQ 6\" car"
+  },
+  "hyundai::bayon": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2021_Hyundai_Bayon_Premium_T-GDi_MHEV_1.0_%281%29.jpg/1280px-2021_Hyundai_Bayon_Premium_T-GDi_MHEV_1.0_%281%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_Bayon",
+    "imageTitle": "Hyundai Bayon",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai Bayon\" car"
+  },
+  "hyundai::santa fe": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2024_Hyundai_Santa_Fe_Luxury_AWD_in_Hampton_Grey%2C_front_left%2C_2024-06-30.jpg/1280px-2024_Hyundai_Santa_Fe_Luxury_AWD_in_Hampton_Grey%2C_front_left%2C_2024-06-30.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_Santa_Fe",
+    "imageTitle": "Hyundai Santa Fe",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai Santa Fe\" car"
+  },
+  "hyundai::i10": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_i10_1.0_Intro_%28III%29_%E2%80%93_f_03012021.jpg/1280px-Hyundai_i10_1.0_Intro_%28III%29_%E2%80%93_f_03012021.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_i10",
+    "imageTitle": "Hyundai i10",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai i10\" car"
+  },
+  "hyundai::ioniq 5 n": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg/1280px-Hyundai_Ioniq_5_AWD_Techniq-Paket_%E2%80%93_f_31122024.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_Ioniq_5",
+    "imageTitle": "Hyundai Ioniq 5",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai IONIQ 5 N\" car"
+  },
+  "hyundai::staria": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hyundai_Staria_1X7A0321.jpg/1280px-Hyundai_Staria_1X7A0321.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_Staria",
+    "imageTitle": "Hyundai Staria",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai Staria\" car"
+  },
+  "hyundai::i20 n": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hyundai_i20N_Rally1_No.11_in_2022_FIA_World_Rally_Championship_%282%29.jpg/1280px-Hyundai_i20N_Rally1_No.11_in_2022_FIA_World_Rally_Championship_%282%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_i20_N_Rally1",
+    "imageTitle": "Hyundai i20 N Rally1",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai i20 N\" car"
+  },
+  "hyundai::nexo": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hyundai_Nexo_Genf_2018.jpg/1280px-Hyundai_Nexo_Genf_2018.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_Nexo",
+    "imageTitle": "Hyundai Nexo",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai NEXO\" car"
+  },
+  "hyundai::inster": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hyundai_Casper_Active_Inspiration_AX1_PE_Tomboy_Khaki_%285%29_%28cropped%29.jpg/1280px-Hyundai_Casper_Active_Inspiration_AX1_PE_Tomboy_Khaki_%285%29_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Hyundai_Casper",
+    "imageTitle": "Hyundai Casper",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Hyundai INSTER\" car"
+  },
+  "jeep::avenger": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Jeep_Avenger_Auto_Zuerich_2023_1X7A1154.jpg/1280px-Jeep_Avenger_Auto_Zuerich_2023_1X7A1154.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Jeep_Avenger",
+    "imageTitle": "Jeep Avenger",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Jeep Avenger\" car"
+  },
+  "jeep::renegade": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jeep_Renegade_Concept_%28front_quarter%29.jpg/1280px-Jeep_Renegade_Concept_%28front_quarter%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Jeep_Renegade_(concept)",
+    "imageTitle": "Jeep Renegade (concept)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Jeep Renegade\" car"
+  },
+  "jeep::compass": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2019_Jeep_Compass_Limited_2.4L%2C_front_7.6.19.jpg/1280px-2019_Jeep_Compass_Limited_2.4L%2C_front_7.6.19.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Jeep_Compass",
+    "imageTitle": "Jeep Compass",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Jeep Compass\" car"
+  },
+  "jeep::wrangler": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2018_Jeep_Wrangler_Sahara_Unlimited_Multijet_2.1_Front.jpg/1280px-2018_Jeep_Wrangler_Sahara_Unlimited_Multijet_2.1_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Jeep_Wrangler",
+    "imageTitle": "Jeep Wrangler",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Jeep Wrangler\" car"
+  },
+  "jeep::grand cherokee": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg/1280px-2022_Jeep_Grand_Cherokee_Summit_Reserve_4x4_in_Bright_White%2C_Front_Left%2C_01-16-2022.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Jeep_Grand_Cherokee",
+    "imageTitle": "Jeep Grand Cherokee",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Jeep Grand Cherokee\" car"
+  },
+  "jeep::commander": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jeep-Commander.jpg/1280px-Jeep-Commander.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Jeep_Commander_(XK)",
+    "imageTitle": "Jeep Commander (XK)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Jeep Commander\" car"
+  },
+  "kia::sportage": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2022_Kia_Sportage_GT-Line_ISG_HEV_Automatic_1.6_Front.jpg/1280px-2022_Kia_Sportage_GT-Line_ISG_HEV_Automatic_1.6_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Kia_Sportage",
+    "imageTitle": "Kia Sportage",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Kia Sportage\" car"
+  },
+  "kia::ceed": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2018_Kia_Ceed_First_Edition_1.4_Front.jpg/1280px-2018_Kia_Ceed_First_Edition_1.4_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Kia_Ceed",
+    "imageTitle": "Kia Ceed",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Kia Ceed\" car"
+  },
+  "kia::niro": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg/1280px-Kia_Niro_%28SG2%29_PHEV_Leonberg_2022_1X7A0474.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Kia_Niro",
+    "imageTitle": "Kia Niro",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Kia Niro\" car"
+  },
+  "kia::stonic": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/2017_Kia_Stonic_First_Edition_1.0.jpg/1280px-2017_Kia_Stonic_First_Edition_1.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Kia_Stonic",
+    "imageTitle": "Kia Stonic",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Kia Stonic\" car"
+  },
+  "kia::picanto": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2018_Kia_Picanto_3_Automatic_1.2_Front.jpg/1280px-2018_Kia_Picanto_3_Automatic_1.2_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Kia_Picanto",
+    "imageTitle": "Kia Picanto",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Kia Picanto\" car"
+  },
+  "kia::ev6": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2021_Kia_EV6_GT-Line_S.jpg/1280px-2021_Kia_EV6_GT-Line_S.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Kia_EV6",
+    "imageTitle": "Kia EV6",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Kia EV6\" car"
+  },
+  "kia::ev9": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kia_EV9_1X7A2472.jpg/1280px-Kia_EV9_1X7A2472.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Kia_EV9",
+    "imageTitle": "Kia EV9",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Kia EV9\" car"
+  },
+  "kia::xceed": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2018_Kia_Ceed_First_Edition_1.4_Front.jpg/1280px-2018_Kia_Ceed_First_Edition_1.4_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Kia_Ceed",
+    "imageTitle": "Kia Ceed",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Kia XCeed\" car"
+  },
+  "kia::sorento": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2024_Kia_Sorento_X-Line_SX_Prestige_%28facelift%29%2C_front_12.20.24.jpg/1280px-2024_Kia_Sorento_X-Line_SX_Prestige_%28facelift%29%2C_front_12.20.24.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Kia_Sorento",
+    "imageTitle": "Kia Sorento",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Kia Sorento\" car"
+  },
+  "kia::proceed": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2018_Kia_Ceed_First_Edition_1.4_Front.jpg/1280px-2018_Kia_Ceed_First_Edition_1.4_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Kia_Ceed",
+    "imageTitle": "Kia Ceed",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Kia ProCeed\" car"
+  },
+  "kia::stinger": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kia_Stinger_Facelift_IMG_4468.jpg/1280px-Kia_Stinger_Facelift_IMG_4468.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Kia_Stinger",
+    "imageTitle": "Kia Stinger",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Kia Stinger\" car"
+  },
+  "kia::rio": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/2021_Kia_Rio_3_MHEV_facelift_1.0.jpg/1280px-2021_Kia_Rio_3_MHEV_facelift_1.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Kia_Rio",
+    "imageTitle": "Kia Rio",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Kia Rio\" car"
+  },
+  "kia::ev3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg/1280px-Kia_EV3_GT-Line_Automesse_Ludwigsburg_2025_DSC_2635_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Kia_EV3",
+    "imageTitle": "Kia EV3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Kia EV3\" car"
+  },
+  "land rover::range rover": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2019_Land_Rover_Range_Rover_Evoque_R-Dynamic_2.0.jpg/1280px-2019_Land_Rover_Range_Rover_Evoque_R-Dynamic_2.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Range_Rover_Evoque",
+    "imageTitle": "Range Rover Evoque",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Land Rover Range Rover\" car"
+  },
+  "land rover::range rover sport": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/2015_Land_Rover_Range_Rover_Sport_HSE_3.0_Front.jpg/1280px-2015_Land_Rover_Range_Rover_Sport_HSE_3.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Range_Rover_Sport",
+    "imageTitle": "Range Rover Sport",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Land Rover Range Rover Sport\" car"
+  },
+  "land rover::range rover velar": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2017_Land_Rover_Range_Rover_Velar_First_Edition_D3_3.0_Front.jpg/1280px-2017_Land_Rover_Range_Rover_Velar_First_Edition_D3_3.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Range_Rover_Velar",
+    "imageTitle": "Range Rover Velar",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Land Rover Range Rover Velar\" car"
+  },
+  "land rover::range rover evoque": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2019_Land_Rover_Range_Rover_Evoque_R-Dynamic_2.0.jpg/1280px-2019_Land_Rover_Range_Rover_Evoque_R-Dynamic_2.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Range_Rover_Evoque",
+    "imageTitle": "Range Rover Evoque",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Land Rover Range Rover Evoque\" car"
+  },
+  "land rover::discovery": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2018_Land_Rover_Discovery_Luxury_HSE_TD6_3.0_Front.jpg/1280px-2018_Land_Rover_Discovery_Luxury_HSE_TD6_3.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Land_Rover_Discovery",
+    "imageTitle": "Land Rover Discovery",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Land Rover Discovery\" car"
+  },
+  "land rover::discovery sport": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2016_Land_Rover_Discovery_Sport_SE_Tech_T_2.0_Front.jpg/1280px-2016_Land_Rover_Discovery_Sport_SE_Tech_T_2.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Land_Rover_Discovery_Sport",
+    "imageTitle": "Land Rover Discovery Sport",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Land Rover Discovery Sport\" car"
+  },
+  "land rover::defender": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2015_Land_Rover_Defender_%28L316_MY15%29_90_3-door_wagon_%282015-10-24%29_01.jpg/1280px-2015_Land_Rover_Defender_%28L316_MY15%29_90_3-door_wagon_%282015-10-24%29_01.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Land_Rover_Defender",
+    "imageTitle": "Land Rover Defender",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Land Rover Defender\" car"
+  },
+  "mg::mg4": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/MG4_Electric_%E2%80%93_f_21042025.jpg/1280px-MG4_Electric_%E2%80%93_f_21042025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/MG4_EV",
+    "imageTitle": "MG4 EV",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"MG MG4\" car"
+  },
+  "mg::zs": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MG_ZS_%28crossover%2C_second_generation%29_DSC_8542.jpg/1280px-MG_ZS_%28crossover%2C_second_generation%29_DSC_8542.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/MG_ZS_(crossover)",
+    "imageTitle": "MG ZS (crossover)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"MG ZS\" car"
+  },
+  "mg::zs ev": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MG_ZS_%28crossover%2C_second_generation%29_DSC_8542.jpg/1280px-MG_ZS_%28crossover%2C_second_generation%29_DSC_8542.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/MG_ZS_(crossover)",
+    "imageTitle": "MG ZS (crossover)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"MG ZS EV\" car"
+  },
+  "mg::hs": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/MG_HS_%28second_generation%29_DSC_7229_%28cropped%29.jpg/1280px-MG_HS_%28second_generation%29_DSC_7229_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/MG_HS",
+    "imageTitle": "MG HS",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"MG HS\" car"
+  },
+  "mg::marvel r": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Roewe_Marvel_X_IMG002_%28cropped%29.jpg/1280px-Roewe_Marvel_X_IMG002_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Roewe_Marvel_X",
+    "imageTitle": "Roewe Marvel X",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"MG Marvel R\" car"
+  },
+  "mg::mg5": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/2021_SAIC_Roewe_i5_%28facelift%29.jpg/1280px-2021_SAIC_Roewe_i5_%28facelift%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Roewe_i5",
+    "imageTitle": "Roewe i5",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"MG MG5\" car"
+  },
+  "mg::cyberster": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/2024_MG_Cyberster.jpg/1280px-2024_MG_Cyberster.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/MG_Cyberster",
+    "imageTitle": "MG Cyberster",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"MG Cyberster\" car"
+  },
+  "mg::mg3 hybrid+": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MG_3_%283rd_generation%29_Automesse_Ludwigsburg_2024_IMG_1571_%28cropped%29.jpg/1280px-MG_3_%283rd_generation%29_Automesse_Ludwigsburg_2024_IMG_1571_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/MG3_(automobile)",
+    "imageTitle": "MG3 (automobile)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "MG MG3 Hybrid+ car"
+  },
+  "mini::cooper": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Morris_Mini-Minor_1959_%28621_AOK%29.jpg/1280px-Morris_Mini-Minor_1959_%28621_AOK%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mini",
+    "imageTitle": "Mini",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"MINI Cooper\" car"
+  },
+  "mini::countryman": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/2012_rallye_deutschland_by_2eight_dsc5066.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mini_John_Cooper_Works_WRC",
+    "imageTitle": "Mini John Cooper Works WRC",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"MINI Countryman\" car"
+  },
+  "mini::clubman": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Morris_Mini-Minor_1959_%28621_AOK%29.jpg/1280px-Morris_Mini-Minor_1959_%28621_AOK%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mini",
+    "imageTitle": "Mini",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"MINI Clubman\" car"
+  },
+  "mini::cooper cabrio": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ford_Fiesta_MK7_Facelift_IMG_6676.jpg/1280px-Ford_Fiesta_MK7_Facelift_IMG_6676.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/B-segment",
+    "imageTitle": "B-segment",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"MINI Cooper Cabrio\" car"
+  },
+  "mini::aceman": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mini_One_%28R50%29_%E2%80%93_Frontansicht%2C_12._Juni_2011%2C_D%C3%BCsseldorf.jpg/1280px-Mini_One_%28R50%29_%E2%80%93_Frontansicht%2C_12._Juni_2011%2C_D%C3%BCsseldorf.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mini_Cooper",
+    "imageTitle": "Mini Cooper",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"MINI Aceman\" car"
+  },
+  "mini::john cooper works": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/2012_rallye_deutschland_by_2eight_dsc5066.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mini_John_Cooper_Works_WRC",
+    "imageTitle": "Mini John Cooper Works WRC",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"MINI John Cooper Works\" car"
+  },
+  "mazda::mazda2": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2000_Mazda_121_%28DW_Series_2%29_Metro_Shades_hatchback_%282016-01-04%29_01_%28cropped%29.jpg/1280px-2000_Mazda_121_%28DW_Series_2%29_Metro_Shades_hatchback_%282016-01-04%29_01_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mazda_Demio",
+    "imageTitle": "Mazda Demio",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mazda Mazda2\" car"
+  },
+  "mazda::mazda3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mazda3_SKYACTIV-G.jpg/1280px-Mazda3_SKYACTIV-G.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mazda3",
+    "imageTitle": "Mazda3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mazda Mazda3\" car"
+  },
+  "mazda::cx-3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2017_Mazda_CX-3_Sport_NAV_Automatic_2.0_Front.jpg/1280px-2017_Mazda_CX-3_Sport_NAV_Automatic_2.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mazda_CX-3",
+    "imageTitle": "Mazda CX-3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mazda CX-3\" car"
+  },
+  "mazda::cx-30": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mazda_CX-30_Touring%2C_2020_front.jpg/1280px-Mazda_CX-30_Touring%2C_2020_front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mazda_CX-30",
+    "imageTitle": "Mazda CX-30",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mazda CX-30\" car"
+  },
+  "mazda::cx-5": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg/1280px-2024_Mazda_CX-5_2.5_S_Select_in_Platinum_Quartz_Metallic%2C_front_right.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mazda_CX-5",
+    "imageTitle": "Mazda CX-5",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mazda CX-5\" car"
+  },
+  "mazda::cx-60": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mazda_CX-60_PHEV_Automesse_Ludwigsburg_2022_1X7A5890.jpg/1280px-Mazda_CX-60_PHEV_Automesse_Ludwigsburg_2022_1X7A5890.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mazda_CX-60",
+    "imageTitle": "Mazda CX-60",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mazda CX-60\" car"
+  },
+  "mazda::cx-80": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mazda_CX-80_PHEV_DSC_6066.jpg/1280px-Mazda_CX-80_PHEV_DSC_6066.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mazda_CX-80",
+    "imageTitle": "Mazda CX-80",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "Mazda CX-80 car"
+  },
+  "mazda::mx-5": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mazda_Roadster_%28MX-5%29_by_Negawa_Bridge_%28cropped%29.jpg/1280px-Mazda_Roadster_%28MX-5%29_by_Negawa_Bridge_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mazda_MX-5",
+    "imageTitle": "Mazda MX-5",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mazda MX-5\" car"
+  },
+  "mazda::mx-30": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2021_Mazda_MX-30_Front.jpg/1280px-2021_Mazda_MX-30_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mazda_MX-30",
+    "imageTitle": "Mazda MX-30",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mazda MX-30\" car"
+  },
+  "mazda::mazda6": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2018_Mazda6_Sport_NAV%2B_Diesel_2.2_Front.jpg/1280px-2018_Mazda6_Sport_NAV%2B_Diesel_2.2_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mazda6",
+    "imageTitle": "Mazda6",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mazda Mazda6\" car"
+  },
+  "mercedes-benz::clase a": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2018_Nissan_Navara_Tekna_DCi_Automatic_2.3.jpg/1280px-2018_Nissan_Navara_Tekna_DCi_Automatic_2.3.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Nissan_Navara",
+    "imageTitle": "Nissan Navara",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "Mercedes-Benz Clase A car"
+  },
+  "mercedes-benz::clase b": {
+    "imageUrl": null,
+    "imagePageUrl": null,
+    "imageTitle": null,
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": null
+  },
+  "mercedes-benz::clase c": {
+    "imageUrl": null,
+    "imagePageUrl": null,
+    "imageTitle": null,
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": null
+  },
+  "mercedes-benz::clase e": {
+    "imageUrl": null,
+    "imagePageUrl": null,
+    "imageTitle": null,
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": null
+  },
+  "mercedes-benz::clase s": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2018_Nissan_Navara_Tekna_DCi_Automatic_2.3.jpg/1280px-2018_Nissan_Navara_Tekna_DCi_Automatic_2.3.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Nissan_Navara",
+    "imageTitle": "Nissan Navara",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "Mercedes-Benz Clase S car"
+  },
+  "mercedes-benz::cla": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Mercedes-Benz_C118_IMG_2673.jpg/1280px-Mercedes-Benz_C118_IMG_2673.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_CLA",
+    "imageTitle": "Mercedes-Benz CLA",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz CLA\" car"
+  },
+  "mercedes-benz::cle": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mercedes-Benz_CLE_200_Coup%C3%A9_AMG_Line_%28C_236%29_%E2%80%93_f_21012024.jpg/1280px-Mercedes-Benz_CLE_200_Coup%C3%A9_AMG_Line_%28C_236%29_%E2%80%93_f_21012024.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_CLE",
+    "imageTitle": "Mercedes-Benz CLE",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz CLE\" car"
+  },
+  "mercedes-benz::gla": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mercedes-Benz_GLA_180_AMG_Line_%28H_247%2C_Facelift%29_%E2%80%93_f_05072025.jpg/1280px-Mercedes-Benz_GLA_180_AMG_Line_%28H_247%2C_Facelift%29_%E2%80%93_f_05072025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLA",
+    "imageTitle": "Mercedes-Benz GLA",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz GLA\" car"
+  },
+  "mercedes-benz::glb": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2020_Mercedes-Benz_GLB_200_AMG_Line_Premium_2.0_Front.jpg/1280px-2020_Mercedes-Benz_GLB_200_AMG_Line_Premium_2.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLB",
+    "imageTitle": "Mercedes-Benz GLB",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz GLB\" car"
+  },
+  "mercedes-benz::glc": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mercedes-Benz_X254_1X7A6343.jpg/1280px-Mercedes-Benz_X254_1X7A6343.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLC",
+    "imageTitle": "Mercedes-Benz GLC",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz GLC\" car"
+  },
+  "mercedes-benz::gle": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Mercedes-Benz_GLE_350_d_4MATIC_AMG_Line_%28V_167%29_%E2%80%93_f_18042021.jpg/1280px-Mercedes-Benz_GLE_350_d_4MATIC_AMG_Line_%28V_167%29_%E2%80%93_f_18042021.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLE",
+    "imageTitle": "Mercedes-Benz GLE",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz GLE\" car"
+  },
+  "mercedes-benz::gls": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercedes-Benz_X167_IMG_5259.jpg/1280px-Mercedes-Benz_X167_IMG_5259.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_GLS",
+    "imageTitle": "Mercedes-Benz GLS",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz GLS\" car"
+  },
+  "mercedes-benz::clase g": {
+    "imageUrl": null,
+    "imagePageUrl": null,
+    "imageTitle": null,
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": null
+  },
+  "mercedes-benz::eqa": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mercedes-Benz_H243_IMG_5876.jpg/1280px-Mercedes-Benz_H243_IMG_5876.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_EQA",
+    "imageTitle": "Mercedes-Benz EQA",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz EQA\" car"
+  },
+  "mercedes-benz::eqb": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mercedes-Benz_X243_300_1X7A0422.jpg/1280px-Mercedes-Benz_X243_300_1X7A0422.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_EQB",
+    "imageTitle": "Mercedes-Benz EQB",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz EQB\" car"
+  },
+  "mercedes-benz::eqc": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mercedes-Benz_EQC_400_4MATIC_AMG_Line_%28N_293%29_%E2%80%93_f_02042021.jpg/1280px-Mercedes-Benz_EQC_400_4MATIC_AMG_Line_%28N_293%29_%E2%80%93_f_02042021.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_EQC",
+    "imageTitle": "Mercedes-Benz EQC",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz EQC\" car"
+  },
+  "mercedes-benz::eqe": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mercedes-Benz_V295_350%2B_Classic-Days_2022_DSC_0018.jpg/1280px-Mercedes-Benz_V295_350%2B_Classic-Days_2022_DSC_0018.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_EQE",
+    "imageTitle": "Mercedes-Benz EQE",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz EQE\" car"
+  },
+  "mercedes-benz::eqs": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mercedes-Benz_X296_1X7A1725.jpg/1280px-Mercedes-Benz_X296_1X7A1725.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_EQS_SUV",
+    "imageTitle": "Mercedes-Benz EQS SUV",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz EQS\" car"
+  },
+  "mercedes-benz::amg gt": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg/1280px-Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-AMG_GT",
+    "imageTitle": "Mercedes-AMG GT",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz AMG GT\" car"
+  },
+  "mercedes-benz::vito": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mercedes-Benz_V_250_d_Exclusive_AMG_Line_Lang_%28V_447%29_%E2%80%93_Frontansicht%2C_29._Juni_2016%2C_D%C3%BCsseldorf.jpg/1280px-Mercedes-Benz_V_250_d_Exclusive_AMG_Line_Lang_%28V_447%29_%E2%80%93_Frontansicht%2C_29._Juni_2016%2C_D%C3%BCsseldorf.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_Vito",
+    "imageTitle": "Mercedes-Benz Vito",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz Vito\" car"
+  },
+  "mercedes-benz::clase v": {
+    "imageUrl": null,
+    "imagePageUrl": null,
+    "imageTitle": null,
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": null
+  },
+  "mercedes-benz::sprinter": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2019_Mercedes-Benz_Sprinter_314_CDi_2.1.jpg/1280px-2019_Mercedes-Benz_Sprinter_314_CDi_2.1.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_Sprinter",
+    "imageTitle": "Mercedes-Benz Sprinter",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mercedes-Benz Sprinter\" car"
+  },
+  "mitsubishi::outlander": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2025_Mitsubishi_Outlander_PHEV_%28fourth_generation%29_IMG_3129.jpg/1280px-2025_Mitsubishi_Outlander_PHEV_%28fourth_generation%29_IMG_3129.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Outlander",
+    "imageTitle": "Mitsubishi Outlander",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mitsubishi Outlander\" car"
+  },
+  "mitsubishi::asx": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Mitsubishi_ASX_%282019%29_IMG_6615.jpg/1280px-Mitsubishi_ASX_%282019%29_IMG_6615.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mitsubishi_ASX",
+    "imageTitle": "Mitsubishi ASX",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mitsubishi ASX\" car"
+  },
+  "mitsubishi::eclipse cross": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2023_Mitsubishi_Eclipse_Cross_SEL_Touring%2C_front_left.jpg/1280px-2023_Mitsubishi_Eclipse_Cross_SEL_Touring%2C_front_left.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Eclipse_Cross",
+    "imageTitle": "Mitsubishi Eclipse Cross",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mitsubishi Eclipse Cross\" car"
+  },
+  "mitsubishi::colt": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/2013_Mitsubishi_Colt_Ralliart_1.5_Front.jpg/1280px-2013_Mitsubishi_Colt_Ralliart_1.5_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Colt",
+    "imageTitle": "Mitsubishi Colt",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mitsubishi Colt\" car"
+  },
+  "mitsubishi::l200": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mitsubishi_Triton_LC_2.4_GLS_2WD_Blade_Silver_Metallic_%28cropped%29.jpg/1280px-Mitsubishi_Triton_LC_2.4_GLS_2WD_Blade_Silver_Metallic_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Triton",
+    "imageTitle": "Mitsubishi Triton",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mitsubishi L200\" car"
+  },
+  "mitsubishi::space star": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Mitsubishi_Space_Star_front_20080228.jpg/1280px-Mitsubishi_Space_Star_front_20080228.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Mitsubishi_Space_Star",
+    "imageTitle": "Mitsubishi Space Star",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Mitsubishi Space Star\" car"
+  },
+  "nissan::qashqai": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2024_Nissan_Qashqai_e-Power_IMG_2187.jpg/1280px-2024_Nissan_Qashqai_e-Power_IMG_2187.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Nissan_Qashqai",
+    "imageTitle": "Nissan Qashqai",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Nissan Qashqai\" car"
+  },
+  "nissan::x-trail": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nissan_X-Trail_%28T33%29_1X7A7179.jpg/1280px-Nissan_X-Trail_%28T33%29_1X7A7179.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Nissan_X-Trail",
+    "imageTitle": "Nissan X-Trail",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Nissan X-Trail\" car"
+  },
+  "nissan::juke": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Nissan_Juke_%28F16%29_IMG_4903.jpg/1280px-Nissan_Juke_%28F16%29_IMG_4903.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Nissan_Juke",
+    "imageTitle": "Nissan Juke",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Nissan Juke\" car"
+  },
+  "nissan::leaf": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nissan_Leaf_%28ZE2%29_autoMOBIL_T%C3%BCbingen_2025_DSC_2752.jpg/1280px-Nissan_Leaf_%28ZE2%29_autoMOBIL_T%C3%BCbingen_2025_DSC_2752.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Nissan_Leaf",
+    "imageTitle": "Nissan Leaf",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Nissan Leaf\" car"
+  },
+  "nissan::ariya": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nissan_Ariya_e-4ORCE_Evolve_Pack_%E2%80%93_f_31122024.jpg/1280px-Nissan_Ariya_e-4ORCE_Evolve_Pack_%E2%80%93_f_31122024.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Nissan_Ariya",
+    "imageTitle": "Nissan Ariya",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Nissan Ariya\" car"
+  },
+  "nissan::micra": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Nissan_Micra_SR_in_Brilliant_Silver%2C_front_right%2C_2024-10-11.jpg/1280px-2015_Nissan_Micra_SR_in_Brilliant_Silver%2C_front_right%2C_2024-10-11.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Nissan_Micra",
+    "imageTitle": "Nissan Micra",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Nissan Micra\" car"
+  },
+  "nissan::navara": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2018_Nissan_Navara_Tekna_DCi_Automatic_2.3.jpg/1280px-2018_Nissan_Navara_Tekna_DCi_Automatic_2.3.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Nissan_Navara",
+    "imageTitle": "Nissan Navara",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Nissan Navara\" car"
+  },
+  "nissan::townstar": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2024_Renault_Kangoo_in_Mineral_White%2C_front_left%2C_06-12-2025.jpg/1280px-2024_Renault_Kangoo_in_Mineral_White%2C_front_left%2C_06-12-2025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Kangoo",
+    "imageTitle": "Renault Kangoo",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Nissan Townstar\" car"
+  },
+  "nissan::primastar": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2024_Renault_Trafic_LWB_Premium_front.jpg/1280px-2024_Renault_Trafic_LWB_Premium_front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Trafic",
+    "imageTitle": "Renault Trafic",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Nissan Primastar\" car"
+  },
+  "nissan::interstar": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2025_Renault_Master_in_Urban_Grey%2C_front_right%2C_06-12-2025.jpg/1280px-2025_Renault_Master_in_Urban_Grey%2C_front_right%2C_06-12-2025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Master",
+    "imageTitle": "Renault Master",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Nissan Interstar\" car"
+  },
+  "opel::corsa": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opel_Corsa-e_at_IAA_2019_IMG_0738.jpg/1280px-Opel_Corsa-e_at_IAA_2019_IMG_0738.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Opel_Corsa",
+    "imageTitle": "Opel Corsa",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Opel Corsa\" car"
+  },
+  "opel::mokka": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Opel_Mokka-e_IMG_6111.jpg/1280px-Opel_Mokka-e_IMG_6111.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Opel_Mokka",
+    "imageTitle": "Opel Mokka",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Opel Mokka\" car"
+  },
+  "opel::astra": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Opel_Astra_1.2_Turbo_Ultimate_%28L%29_%E2%80%93_f_13122024.jpg/1280px-Opel_Astra_1.2_Turbo_Ultimate_%28L%29_%E2%80%93_f_13122024.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Opel_Astra",
+    "imageTitle": "Opel Astra",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Opel Astra\" car"
+  },
+  "opel::crossland": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Opel_Crossland_IMG_4132.jpg/1280px-Opel_Crossland_IMG_4132.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Opel_Crossland",
+    "imageTitle": "Opel Crossland",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Opel Crossland\" car"
+  },
+  "opel::grandland": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Opel_Grandland_Hybrid4_Automesse_Ludwigsburg_2022_1X7A5911.jpg/1280px-Opel_Grandland_Hybrid4_Automesse_Ludwigsburg_2022_1X7A5911.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Opel_Grandland",
+    "imageTitle": "Opel Grandland",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Opel Grandland\" car"
+  },
+  "opel::combo life": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/2018_Opel_Combo_life_front_quarter_right_Ruesselsheim_LWEOS1809_%28cropped%29.jpg/1280px-2018_Opel_Combo_life_front_quarter_right_Ruesselsheim_LWEOS1809_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Opel_Combo",
+    "imageTitle": "Opel Combo",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Opel Combo Life\" car"
+  },
+  "opel::zafira life": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg/1280px-2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Jumpy",
+    "imageTitle": "Citroën Jumpy",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Opel Zafira Life\" car"
+  },
+  "opel::vivaro": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2024_Renault_Trafic_LWB_Premium_front.jpg/1280px-2024_Renault_Trafic_LWB_Premium_front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Trafic",
+    "imageTitle": "Renault Trafic",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Opel Vivaro\" car"
+  },
+  "opel::movano": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2025_Renault_Master_in_Urban_Grey%2C_front_right%2C_06-12-2025.jpg/1280px-2025_Renault_Master_in_Urban_Grey%2C_front_right%2C_06-12-2025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Master",
+    "imageTitle": "Renault Master",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Opel Movano\" car"
+  },
+  "opel::frontera": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2001-2003_Isuzu_Rodeo.jpg/1280px-2001-2003_Isuzu_Rodeo.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Isuzu_MU",
+    "imageTitle": "Isuzu MU",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Opel Frontera\" car"
+  },
+  "opel::corsa-e": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opel_Corsa-e_at_IAA_2019_IMG_0738.jpg/1280px-Opel_Corsa-e_at_IAA_2019_IMG_0738.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Opel_Corsa",
+    "imageTitle": "Opel Corsa",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Opel Corsa-e\" car"
+  },
+  "opel::mokka-e": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Opel_Mokka-e_IMG_6111.jpg/1280px-Opel_Mokka-e_IMG_6111.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Opel_Mokka",
+    "imageTitle": "Opel Mokka",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Opel Mokka-e\" car"
+  },
+  "opel::astra-e": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Opel_Astra_1.2_Turbo_Ultimate_%28L%29_%E2%80%93_f_13122024.jpg/1280px-Opel_Astra_1.2_Turbo_Ultimate_%28L%29_%E2%80%93_f_13122024.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Opel_Astra",
+    "imageTitle": "Opel Astra",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "Opel Astra-e car"
+  },
+  "peugeot::208": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Peugeot_208_PureTech_130_EAT8_Allure_GT-Line_%28II%29_%E2%80%93_f_17102021.jpg/1280px-Peugeot_208_PureTech_130_EAT8_Allure_GT-Line_%28II%29_%E2%80%93_f_17102021.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Peugeot_208",
+    "imageTitle": "Peugeot 208",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot 208\" car"
+  },
+  "peugeot::2008": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Peugeot_2008_DKR_%28MSP16%29.jpg/1280px-Peugeot_2008_DKR_%28MSP16%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Peugeot_2008_DKR",
+    "imageTitle": "Peugeot 2008 DKR",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot 2008\" car"
+  },
+  "peugeot::308": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2022_-_Peugeot_308_III_%28C%29_-_121.jpg/1280px-2022_-_Peugeot_308_III_%28C%29_-_121.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Peugeot_308",
+    "imageTitle": "Peugeot 308",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot 308\" car"
+  },
+  "peugeot::3008": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Peugeot_3008_DKR_-_Mondial_de_l%27Automobile_de_Paris_2016_-_002.jpg/1280px-Peugeot_3008_DKR_-_Mondial_de_l%27Automobile_de_Paris_2016_-_002.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Peugeot_3008_DKR",
+    "imageTitle": "Peugeot 3008 DKR",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot 3008\" car"
+  },
+  "peugeot::408": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Peugeot_408_II_2022_facelift_IMG001_%28cropped%29.jpg/1280px-Peugeot_408_II_2022_facelift_IMG001_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Peugeot_408_(saloon)",
+    "imageTitle": "Peugeot 408 (saloon)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot 408\" car"
+  },
+  "peugeot::508": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2019_Peugeot_508_GT-Line_BlueHDi_1.5_%28130_PS%29_Front.jpg/1280px-2019_Peugeot_508_GT-Line_BlueHDi_1.5_%28130_PS%29_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Peugeot_508",
+    "imageTitle": "Peugeot 508",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot 508\" car"
+  },
+  "peugeot::5008": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Peugeot_5008_C_DSC_2949.jpg/1280px-Peugeot_5008_C_DSC_2949.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Peugeot_5008",
+    "imageTitle": "Peugeot 5008",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot 5008\" car"
+  },
+  "peugeot::e-208": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ford_Fiesta_MK7_Facelift_IMG_6676.jpg/1280px-Ford_Fiesta_MK7_Facelift_IMG_6676.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/B-segment",
+    "imageTitle": "B-segment",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot e-208\" car"
+  },
+  "peugeot::e-2008": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2023_Peugeot_2008_in_Vertigo_Blue%2C_front_left%2C_06-08-2025.jpg/1280px-2023_Peugeot_2008_in_Vertigo_Blue%2C_front_left%2C_06-08-2025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Peugeot_2008",
+    "imageTitle": "Peugeot 2008",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot e-2008\" car"
+  },
+  "peugeot::e-308": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2022_-_Peugeot_308_III_%28C%29_-_121.jpg/1280px-2022_-_Peugeot_308_III_%28C%29_-_121.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Peugeot_308",
+    "imageTitle": "Peugeot 308",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot e-308\" car"
+  },
+  "peugeot::rifter": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Citro%C3%ABn_Berlingo_XL_BlueHDi_130_EAT8_Shine_XTR_%28III%29_%E2%80%93_f_02012021.jpg/1280px-Citro%C3%ABn_Berlingo_XL_BlueHDi_130_EAT8_Shine_XTR_%28III%29_%E2%80%93_f_02012021.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Berlingo",
+    "imageTitle": "Citroën Berlingo",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot Rifter\" car"
+  },
+  "peugeot::partner": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Citro%C3%ABn_Berlingo_XL_BlueHDi_130_EAT8_Shine_XTR_%28III%29_%E2%80%93_f_02012021.jpg/1280px-Citro%C3%ABn_Berlingo_XL_BlueHDi_130_EAT8_Shine_XTR_%28III%29_%E2%80%93_f_02012021.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Berlingo",
+    "imageTitle": "Citroën Berlingo",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot Partner\" car"
+  },
+  "peugeot::expert": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg/1280px-2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Jumpy",
+    "imageTitle": "Citroën Jumpy",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot Expert\" car"
+  },
+  "peugeot::traveller": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg/1280px-2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Jumpy",
+    "imageTitle": "Citroën Jumpy",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Peugeot Traveller\" car"
+  },
+  "renault::clio": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Renault_Clio_%28V%2C_Facelift%29_%E2%80%93_f_02092025.jpg/1280px-Renault_Clio_%28V%2C_Facelift%29_%E2%80%93_f_02092025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Clio",
+    "imageTitle": "Renault Clio",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Renault Clio\" car"
+  },
+  "renault::captur": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2024_Renault_Captur_II_Automesse_Ludwigsburg_2024_IMG_1506.jpg/1280px-2024_Renault_Captur_II_Automesse_Ludwigsburg_2024_IMG_1506.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Captur",
+    "imageTitle": "Renault Captur",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Renault Captur\" car"
+  },
+  "renault::mégane e-tech": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Renault_M%C3%A9gane_E-Tech_IMG_4064.jpg/1280px-Renault_M%C3%A9gane_E-Tech_IMG_4064.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Megane_E-Tech_Electric",
+    "imageTitle": "Renault Megane E-Tech Electric",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Renault Mégane E-Tech\" car"
+  },
+  "renault::austral": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Renault_Austral_1X7A6753.jpg/1280px-Renault_Austral_1X7A6753.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Austral",
+    "imageTitle": "Renault Austral",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Renault Austral\" car"
+  },
+  "renault::arkana": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Renault_Arkana_%28CMF-B%29_Facelift_IMG_9961.jpg/1280px-Renault_Arkana_%28CMF-B%29_Facelift_IMG_9961.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Arkana",
+    "imageTitle": "Renault Arkana",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Renault Arkana\" car"
+  },
+  "renault::scénic e-tech": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Renault_Sc%C3%A9nic_E-Tech_IMG_9977.jpg/1280px-Renault_Sc%C3%A9nic_E-Tech_IMG_9977.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Scenic_E-Tech",
+    "imageTitle": "Renault Scenic E-Tech",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Renault Scénic E-Tech\" car"
+  },
+  "renault::espace": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2015-present_Renault_Espace_Front.jpg/1280px-2015-present_Renault_Espace_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Espace",
+    "imageTitle": "Renault Espace",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Renault Espace\" car"
+  },
+  "renault::rafale": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Renault_Austral_1X7A6753.jpg/1280px-Renault_Austral_1X7A6753.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Austral",
+    "imageTitle": "Renault Austral",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Renault Rafale\" car"
+  },
+  "renault::twingo": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Renault_Twingo_Dynamique_%28III%29_%E2%80%93_Frontansicht%2C_24._Oktober_2015%2C_M%C3%BCnster.jpg/1280px-Renault_Twingo_Dynamique_%28III%29_%E2%80%93_Frontansicht%2C_24._Oktober_2015%2C_M%C3%BCnster.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Twingo",
+    "imageTitle": "Renault Twingo",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Renault Twingo\" car"
+  },
+  "renault::kangoo": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2024_Renault_Kangoo_in_Mineral_White%2C_front_left%2C_06-12-2025.jpg/1280px-2024_Renault_Kangoo_in_Mineral_White%2C_front_left%2C_06-12-2025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Kangoo",
+    "imageTitle": "Renault Kangoo",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Renault Kangoo\" car"
+  },
+  "renault::trafic": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2024_Renault_Trafic_LWB_Premium_front.jpg/1280px-2024_Renault_Trafic_LWB_Premium_front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Trafic",
+    "imageTitle": "Renault Trafic",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Renault Trafic\" car"
+  },
+  "renault::master": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2025_Renault_Master_in_Urban_Grey%2C_front_right%2C_06-12-2025.jpg/1280px-2025_Renault_Master_in_Urban_Grey%2C_front_right%2C_06-12-2025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Master",
+    "imageTitle": "Renault Master",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Renault Master\" car"
+  },
+  "renault::r5 e-tech": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Renault_5_E-Tech_Electric_DSC_7279.jpg/1280px-Renault_5_E-Tech_Electric_DSC_7279.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_5_E-Tech",
+    "imageTitle": "Renault 5 E-Tech",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "Renault R5 E-Tech car"
+  },
+  "renault::symbioz": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Renault_Symbioz_Concept_%282017%29%2C_Paris_Motor_Show_2018%2C_IMG_0477.jpg/1280px-Renault_Symbioz_Concept_%282017%29%2C_Paris_Motor_Show_2018%2C_IMG_0477.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Renault_Symbioz_(concept_car)",
+    "imageTitle": "Renault Symbioz (concept car)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Renault Symbioz\" car"
+  },
+  "seat::león": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2020_SEAT_Leon_FR_TSi_Evo_1.5_Front.jpg/1280px-2020_SEAT_Leon_FR_TSi_Evo_1.5_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/SEAT_Le%C3%B3n",
+    "imageTitle": "SEAT León",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"SEAT León\" car"
+  },
+  "seat::ibiza": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2018_SEAT_Ibiza_SE_Technology_MPi_1.0_Front.jpg/1280px-2018_SEAT_Ibiza_SE_Technology_MPi_1.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/SEAT_Ibiza",
+    "imageTitle": "SEAT Ibiza",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"SEAT Ibiza\" car"
+  },
+  "seat::arona": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2018_SEAT_Arona_SE_Technology_TSi_1.0_Front_%281%29.jpg/1280px-2018_SEAT_Arona_SE_Technology_TSi_1.0_Front_%281%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/SEAT_Arona",
+    "imageTitle": "SEAT Arona",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"SEAT Arona\" car"
+  },
+  "seat::ateca": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/2017_SEAT_Ateca_Xcellence_1.4_Front.jpg/1280px-2017_SEAT_Ateca_Xcellence_1.4_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/SEAT_Ateca",
+    "imageTitle": "SEAT Ateca",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"SEAT Ateca\" car"
+  },
+  "seat::tarraco": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2019_SEAT_Tarraco_SE_Tech_TDi_4Drive_SA_2.0_Front.jpg/1280px-2019_SEAT_Tarraco_SE_Tech_TDi_4Drive_SA_2.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/SEAT_Tarraco",
+    "imageTitle": "SEAT Tarraco",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"SEAT Tarraco\" car"
+  },
+  "seat::mii": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2013_Volkswagen_Take_UP%21_1.0.jpg/1280px-2013_Volkswagen_Take_UP%21_1.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Up",
+    "imageTitle": "Volkswagen Up",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"SEAT Mii\" car"
+  },
+  "seat::alhambra": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Seat_Alhambra_Style_%28II%2C_Facelift%29_%E2%80%93_f_20052021.jpg/1280px-Seat_Alhambra_Style_%28II%2C_Facelift%29_%E2%80%93_f_20052021.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/SEAT_Alhambra",
+    "imageTitle": "SEAT Alhambra",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"SEAT Alhambra\" car"
+  },
+  "seat::toledo": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Circuit_de_Spa-Francorchamps_2004-2006.png",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/2005_FIA_WTCC_Race_of_Belgium",
+    "imageTitle": "2005 FIA WTCC Race of Belgium",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"SEAT Toledo\" car"
+  },
+  "suzuki::swift": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Suzuki_Swift_%282024%29_hybrid_IMG_2582.jpg/1280px-Suzuki_Swift_%282024%29_hybrid_IMG_2582.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Suzuki_Swift",
+    "imageTitle": "Suzuki Swift",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Suzuki Swift\" car"
+  },
+  "suzuki::vitara": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2022_Maruti_Suzuki_Brezza_ZXi%2B_%28India%29_front_view_03.png/1280px-2022_Maruti_Suzuki_Brezza_ZXi%2B_%28India%29_front_view_03.png",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Suzuki_Brezza",
+    "imageTitle": "Suzuki Brezza",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Suzuki Vitara\" car"
+  },
+  "suzuki::s-cross": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Suzuki_SX4_%283rd_generation%29_1X7A6968.jpg/1280px-Suzuki_SX4_%283rd_generation%29_1X7A6968.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Suzuki_SX4",
+    "imageTitle": "Suzuki SX4",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Suzuki S-Cross\" car"
+  },
+  "suzuki::ignis": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2018_Suzuki_Ignis_SZ5_SHVS_Allgrip_1.2_Front.jpg/1280px-2018_Suzuki_Ignis_SZ5_SHVS_Allgrip_1.2_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Suzuki_Ignis",
+    "imageTitle": "Suzuki Ignis",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Suzuki Ignis\" car"
+  },
+  "suzuki::jimny": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2019_Suzuki_Jimny_SZ5_4X4_Automatic_1.5.jpg/1280px-2019_Suzuki_Jimny_SZ5_4X4_Automatic_1.5.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Suzuki_Jimny",
+    "imageTitle": "Suzuki Jimny",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Suzuki Jimny\" car"
+  },
+  "suzuki::swace": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2018_Toyota_Corolla_%28MZEA12R%29_Ascent_Sport_hatchback_%282018-11-02%29_01.jpg/1280px-2018_Toyota_Corolla_%28MZEA12R%29_Ascent_Sport_hatchback_%282018-11-02%29_01.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_Corolla_(E210)",
+    "imageTitle": "Toyota Corolla (E210)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Suzuki Swace\" car"
+  },
+  "suzuki::across": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Toyota_RAV4_XLE_%28facelift%29_%28front%29.jpg/1280px-Toyota_RAV4_XLE_%28facelift%29_%28front%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_RAV4",
+    "imageTitle": "Toyota RAV4",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Suzuki Across\" car"
+  },
+  "tesla::model 3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2019_Tesla_Model_3_Performance_AWD_Front.jpg/1280px-2019_Tesla_Model_3_Performance_AWD_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Tesla_Model_3",
+    "imageTitle": "Tesla Model 3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Tesla Model 3\" car"
+  },
+  "tesla::model y": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2024_Tesla_Model_Y_RWD_front.jpg/1280px-2024_Tesla_Model_Y_RWD_front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Tesla_Model_Y",
+    "imageTitle": "Tesla Model Y",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Tesla Model Y\" car"
+  },
+  "tesla::model s": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tesla_Model_S_%28Facelift_ab_04-2016%29_%28cropped%29.jpg/1280px-Tesla_Model_S_%28Facelift_ab_04-2016%29_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Tesla_Model_S",
+    "imageTitle": "Tesla Model S",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Tesla Model S\" car"
+  },
+  "tesla::model x": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/1280px-2017_Tesla_Model_X_100D_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Tesla_Model_X",
+    "imageTitle": "Tesla Model X",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Tesla Model X\" car"
+  },
+  "tesla::cybertruck": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/2024_Tesla_Cybertruck_Foundation_Series%2C_front_left_%28Greenwich%29.jpg/1280px-2024_Tesla_Cybertruck_Foundation_Series%2C_front_left_%28Greenwich%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Tesla_Cybertruck",
+    "imageTitle": "Tesla Cybertruck",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Tesla Cybertruck\" car"
+  },
+  "toyota::corolla": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Toyota_Corolla_Hybrid_%28E210%29_IMG_4338.jpg/1280px-Toyota_Corolla_Hybrid_%28E210%29_IMG_4338.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_Corolla",
+    "imageTitle": "Toyota Corolla",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Corolla\" car"
+  },
+  "toyota::yaris": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg/1280px-2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_Yaris",
+    "imageTitle": "Toyota Yaris",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Yaris\" car"
+  },
+  "toyota::yaris cross": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Toyota_Yaris_Cross_Hybrid_%28XP210%29_1X7A1846.jpg/1280px-Toyota_Yaris_Cross_Hybrid_%28XP210%29_1X7A1846.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_Yaris_Cross",
+    "imageTitle": "Toyota Yaris Cross",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Yaris Cross\" car"
+  },
+  "toyota::c-hr": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Toyota_C-HR_Hybrid_%28AX20%29_DSC_7239.jpg/1280px-Toyota_C-HR_Hybrid_%28AX20%29_DSC_7239.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_C-HR",
+    "imageTitle": "Toyota C-HR",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota C-HR\" car"
+  },
+  "toyota::rav4": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Toyota_RAV4_XLE_%28facelift%29_%28front%29.jpg/1280px-Toyota_RAV4_XLE_%28facelift%29_%28front%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_RAV4",
+    "imageTitle": "Toyota RAV4",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota RAV4\" car"
+  },
+  "toyota::camry": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg/1280px-2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_Camry",
+    "imageTitle": "Toyota Camry",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Camry\" car"
+  },
+  "toyota::prius": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2024_Toyota_Prius_Excel_PHEV_-_1987cc_2.0_%28225PS%29_Plug-in_Hybrid_-_Silver_Metallic_-_10-2024%2C_Front_Quarter.jpg/1280px-2024_Toyota_Prius_Excel_PHEV_-_1987cc_2.0_%28225PS%29_Plug-in_Hybrid_-_Silver_Metallic_-_10-2024%2C_Front_Quarter.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_Prius",
+    "imageTitle": "Toyota Prius",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Prius\" car"
+  },
+  "toyota::highlander": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Calty_Design_Research_Inc_Office_in_Newport_Beach%2C_CA.jpg/1280px-Calty_Design_Research_Inc_Office_in_Newport_Beach%2C_CA.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Calty_Design_Research",
+    "imageTitle": "Calty Design Research",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Highlander\" car"
+  },
+  "toyota::land cruiser": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2021_Toyota_Land_Cruiser_300_3.4_ZX_%28Colombia%29_front_view_04.png/1280px-2021_Toyota_Land_Cruiser_300_3.4_ZX_%28Colombia%29_front_view_04.png",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_Land_Cruiser",
+    "imageTitle": "Toyota Land Cruiser",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Land Cruiser\" car"
+  },
+  "toyota::aygo x": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Toyota_Aygo_X_Hybrid_IMG_4367.jpg/1280px-Toyota_Aygo_X_Hybrid_IMG_4367.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_Aygo_X",
+    "imageTitle": "Toyota Aygo X",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Aygo X\" car"
+  },
+  "toyota::bz4x": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Toyota_bZ4X_Automesse_Ludwigsburg_2022_1X7A5895.jpg/1280px-Toyota_bZ4X_Automesse_Ludwigsburg_2022_1X7A5895.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_bZ4X",
+    "imageTitle": "Toyota bZ4X",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota bZ4X\" car"
+  },
+  "toyota::supra": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Toyota_GR_Supra_%2851984008283crop%29.jpg/1280px-Toyota_GR_Supra_%2851984008283crop%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_Supra",
+    "imageTitle": "Toyota Supra",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Supra\" car"
+  },
+  "toyota::gr86": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2022_Toyota_GR86_Premium_in_Halo%2C_Front_Right%2C_04-10-2022.jpg/1280px-2022_Toyota_GR86_Premium_in_Halo%2C_Front_Right%2C_04-10-2022.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_86",
+    "imageTitle": "Toyota 86",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "Toyota GR86 car"
+  },
+  "toyota::proace city": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Citro%C3%ABn_Berlingo_XL_BlueHDi_130_EAT8_Shine_XTR_%28III%29_%E2%80%93_f_02012021.jpg/1280px-Citro%C3%ABn_Berlingo_XL_BlueHDi_130_EAT8_Shine_XTR_%28III%29_%E2%80%93_f_02012021.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Berlingo",
+    "imageTitle": "Citroën Berlingo",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Proace City\" car"
+  },
+  "toyota::proace": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg/1280px-2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Citro%C3%ABn_Jumpy",
+    "imageTitle": "Citroën Jumpy",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Proace\" car"
+  },
+  "toyota::hilux": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2016_Toyota_HiLux_Invincible_D-4D_4WD_2.4_Front.jpg/1280px-2016_Toyota_HiLux_Invincible_D-4D_4WD_2.4_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_Hilux",
+    "imageTitle": "Toyota Hilux",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Hilux\" car"
+  },
+  "toyota::corolla cross": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/2023_Toyota_Corolla_Cross_XLE_4WD_in_Wind_Chill_Pearl%2C_front_left.jpg/1280px-2023_Toyota_Corolla_Cross_XLE_4WD_in_Wind_Chill_Pearl%2C_front_left.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_Corolla_Cross",
+    "imageTitle": "Toyota Corolla Cross",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Corolla Cross\" car"
+  },
+  "toyota::auris": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Toyota_Auris_2.0_D-4D_Executive_%28II%29_%E2%80%93_Frontansicht%2C_1._Juni_2013%2C_D%C3%BCsseldorf.jpg/1280px-Toyota_Auris_2.0_D-4D_Executive_%28II%29_%E2%80%93_Frontansicht%2C_1._Juni_2013%2C_D%C3%BCsseldorf.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_Auris",
+    "imageTitle": "Toyota Auris",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Auris\" car"
+  },
+  "toyota::avensis": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2011_Toyota_Avensis_in_Aspen_Grey%2C_front_left%2C_06-06-2025.jpg/1280px-2011_Toyota_Avensis_in_Aspen_Grey%2C_front_left%2C_06-06-2025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_Avensis",
+    "imageTitle": "Toyota Avensis",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota Avensis\" car"
+  },
+  "toyota::gt86": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2022_Toyota_GR86_Premium_in_Halo%2C_Front_Right%2C_04-10-2022.jpg/1280px-2022_Toyota_GR86_Premium_in_Halo%2C_Front_Right%2C_04-10-2022.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Toyota_86",
+    "imageTitle": "Toyota 86",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Toyota GT86\" car"
+  },
+  "volkswagen::golf": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2020_Volkswagen_Golf_Style_1.5_Front.jpg/1280px-2020_Volkswagen_Golf_Style_1.5_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Golf",
+    "imageTitle": "Volkswagen Golf",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen Golf\" car"
+  },
+  "volkswagen::polo": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/VW_Polo_beats_%28VI%29_%E2%80%93_f_03032019.jpg/1280px-VW_Polo_beats_%28VI%29_%E2%80%93_f_03032019.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Polo",
+    "imageTitle": "Volkswagen Polo",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen Polo\" car"
+  },
+  "volkswagen::tiguan": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/VW_Tiguan_1.5_eTSI_R-Line_%28III%29_%E2%80%93_f_18052025.jpg/1280px-VW_Tiguan_1.5_eTSI_R-Line_%28III%29_%E2%80%93_f_18052025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Tiguan",
+    "imageTitle": "Volkswagen Tiguan",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen Tiguan\" car"
+  },
+  "volkswagen::t-roc": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/VW_T-Roc_1.5_TSI_Style_%E2%80%93_f_03012021.jpg/1280px-VW_T-Roc_1.5_TSI_Style_%E2%80%93_f_03012021.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_T-Roc",
+    "imageTitle": "Volkswagen T-Roc",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen T-Roc\" car"
+  },
+  "volkswagen::t-cross": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/VW_T-Cross_Style_%28Facelift%29_%E2%80%93_f_22022025.jpg/1280px-VW_T-Cross_Style_%28Facelift%29_%E2%80%93_f_22022025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_T-Cross",
+    "imageTitle": "Volkswagen T-Cross",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen T-Cross\" car"
+  },
+  "volkswagen::passat": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/VW_Passat_Variant_Elegance_%28B9%29_%E2%80%93_f_18052025.jpg/1280px-VW_Passat_Variant_Elegance_%28B9%29_%E2%80%93_f_18052025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Passat",
+    "imageTitle": "Volkswagen Passat",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen Passat\" car"
+  },
+  "volkswagen::touareg": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Volkswagen_Touareg_%282023%29_IMG_2080.jpg/1280px-Volkswagen_Touareg_%282023%29_IMG_2080.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Touareg",
+    "imageTitle": "Volkswagen Touareg",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen Touareg\" car"
+  },
+  "volkswagen::id.3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2020_Volkswagen_ID.3_1st_Front.jpg/1280px-2020_Volkswagen_ID.3_1st_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_ID.3",
+    "imageTitle": "Volkswagen ID.3",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen ID.3\" car"
+  },
+  "volkswagen::id.4": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2025_Volkswagen_ID4_Pro_Redspot_front.jpg/1280px-2025_Volkswagen_ID4_Pro_Redspot_front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_ID.4",
+    "imageTitle": "Volkswagen ID.4",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen ID.4\" car"
+  },
+  "volkswagen::id.5": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2025_Volkswagen_ID4_Pro_Redspot_front.jpg/1280px-2025_Volkswagen_ID4_Pro_Redspot_front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_ID.4",
+    "imageTitle": "Volkswagen ID.4",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen ID.5\" car"
+  },
+  "volkswagen::id.7": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Volkswagen_ID.7_DSC_7879_%28cropped%29.jpg/1280px-Volkswagen_ID.7_DSC_7879_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_ID.7",
+    "imageTitle": "Volkswagen ID.7",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen ID.7\" car"
+  },
+  "volkswagen::id.buzz": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Volkswagen_ID._Buzz_1X7A6263.jpg/1280px-Volkswagen_ID._Buzz_1X7A6263.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_ID._Buzz",
+    "imageTitle": "Volkswagen ID. Buzz",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen ID.Buzz\" car"
+  },
+  "volkswagen::taigo": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Volkswagen_Taigo_1X7A0350.jpg/1280px-Volkswagen_Taigo_1X7A0350.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Taigo",
+    "imageTitle": "Volkswagen Taigo",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen Taigo\" car"
+  },
+  "volkswagen::arteon": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2018_Volkswagen_Arteon_2.0.jpg/1280px-2018_Volkswagen_Arteon_2.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Arteon",
+    "imageTitle": "Volkswagen Arteon",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen Arteon\" car"
+  },
+  "volkswagen::up!": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2013_Volkswagen_Take_UP%21_1.0.jpg/1280px-2013_Volkswagen_Take_UP%21_1.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Up",
+    "imageTitle": "Volkswagen Up",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen Up!\" car"
+  },
+  "volkswagen::touran": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2018_Volkswagen_Touran_1.6.jpg/1280px-2018_Volkswagen_Touran_1.6.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Touran",
+    "imageTitle": "Volkswagen Touran",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen Touran\" car"
+  },
+  "volkswagen::caddy": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Volkswagen_Caddy_Maxi_postfacelift_in_Deidesheim.jpg/1280px-Volkswagen_Caddy_Maxi_postfacelift_in_Deidesheim.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Caddy",
+    "imageTitle": "Volkswagen Caddy",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen Caddy\" car"
+  },
+  "volkswagen::multivan": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2017_Volkswagen_Transporter_BlueMotion.jpg/1280px-2017_Volkswagen_Transporter_BlueMotion.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Transporter",
+    "imageTitle": "Volkswagen Transporter",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen Multivan\" car"
+  },
+  "volkswagen::amarok": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/VW_Amarok_3.0_TDI_4Motion_Style_%28II%29_%E2%80%93_f_05072025.jpg/1280px-VW_Amarok_3.0_TDI_4Motion_Style_%28II%29_%E2%80%93_f_05072025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Amarok",
+    "imageTitle": "Volkswagen Amarok",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volkswagen Amarok\" car"
+  },
+  "volvo::xc40": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2019_Volvo_XC40_T5_Momentum_in_Bright_Silver_Metallic%2C_front_left%2C_2025-09-22.jpg/1280px-2019_Volvo_XC40_T5_Momentum_in_Bright_Silver_Metallic%2C_front_left%2C_2025-09-22.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volvo_XC40",
+    "imageTitle": "Volvo XC40",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volvo XC40\" car"
+  },
+  "volvo::xc60": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2018_Volvo_XC60_R-Design_D5_P-Pulse_2.0_Front.jpg/1280px-2018_Volvo_XC60_R-Design_D5_P-Pulse_2.0_Front.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volvo_XC60",
+    "imageTitle": "Volvo XC60",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volvo XC60\" car"
+  },
+  "volvo::xc90": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_%28II%2C_2._Facelift%29_%E2%80%93_f_03102025.jpg/1280px-Volvo_XC90_T8_AWD_Plug-in_Hybrid_Plus_%28II%2C_2._Facelift%29_%E2%80%93_f_03102025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volvo_XC90",
+    "imageTitle": "Volvo XC90",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volvo XC90\" car"
+  },
+  "volvo::ex30": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Volvo_EX30_IMG_8923.jpg/1280px-Volvo_EX30_IMG_8923.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volvo_EX30",
+    "imageTitle": "Volvo EX30",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volvo EX30\" car"
+  },
+  "volvo::ex40": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2019_Volvo_XC40_T5_Momentum_in_Bright_Silver_Metallic%2C_front_left%2C_2025-09-22.jpg/1280px-2019_Volvo_XC40_T5_Momentum_in_Bright_Silver_Metallic%2C_front_left%2C_2025-09-22.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volvo_XC40",
+    "imageTitle": "Volvo XC40",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volvo EX40\" car"
+  },
+  "volvo::ex90": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Volvo_EX90_autoMOBIL_T%C3%BCbingen_2025_DSC_2740.jpg/1280px-Volvo_EX90_autoMOBIL_T%C3%BCbingen_2025_DSC_2740.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volvo_EX90",
+    "imageTitle": "Volvo EX90",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volvo EX90\" car"
+  },
+  "volvo::ec40": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2019_Volvo_XC40_T5_Momentum_in_Bright_Silver_Metallic%2C_front_left%2C_2025-09-22.jpg/1280px-2019_Volvo_XC40_T5_Momentum_in_Bright_Silver_Metallic%2C_front_left%2C_2025-09-22.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volvo_XC40",
+    "imageTitle": "Volvo XC40",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volvo EC40\" car"
+  },
+  "volvo::s60": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Volvo_S60_%283rd_generation%29_IMG_8468.jpg/1280px-Volvo_S60_%283rd_generation%29_IMG_8468.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volvo_S60",
+    "imageTitle": "Volvo S60",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volvo S60\" car"
+  },
+  "volvo::v60": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg/1280px-2018_Volvo_V60_Inscription_PRO_D4_Automatic_2.0.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volvo_V60",
+    "imageTitle": "Volvo V60",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volvo V60\" car"
+  },
+  "volvo::s90": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2018_Volvo_S90_T5_Momentum_front_4.6.18.jpg/1280px-2018_Volvo_S90_T5_Momentum_front_4.6.18.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volvo_S90",
+    "imageTitle": "Volvo S90",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volvo S90\" car"
+  },
+  "volvo::v90": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Volvo_V90_%28SPA%29_1X7A0384.jpg/1280px-Volvo_V90_%28SPA%29_1X7A0384.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volvo_V90",
+    "imageTitle": "Volvo V90",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volvo V90\" car"
+  },
+  "volvo::c40": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2019_Volvo_XC40_T5_Momentum_in_Bright_Silver_Metallic%2C_front_left%2C_2025-09-22.jpg/1280px-2019_Volvo_XC40_T5_Momentum_in_Bright_Silver_Metallic%2C_front_left%2C_2025-09-22.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volvo_XC40",
+    "imageTitle": "Volvo XC40",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Volvo C40\" car"
+  },
+  "škoda::octavia": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/%C5%A0koda_nieuw.png",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/%C5%A0koda_Auto",
+    "imageTitle": "Škoda Auto",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Škoda Octavia\" car"
+  },
+  "škoda::fabia": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raimund_Baumschlager_Lavanttal_Rallye_2009.jpg/1280px-Raimund_Baumschlager_Lavanttal_Rallye_2009.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/%C5%A0koda_Fabia_S2000",
+    "imageTitle": "Škoda Fabia S2000",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Škoda Fabia\" car"
+  },
+  "škoda::kamiq": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Skoda_Kamiq_001.jpg/1280px-Skoda_Kamiq_001.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/%C5%A0koda_Kamiq_(China)",
+    "imageTitle": "Škoda Kamiq (China)",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Škoda Kamiq\" car"
+  },
+  "škoda::karoq": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Skoda_Karoq_%E2%80%93_f_18042025.jpg/1280px-Skoda_Karoq_%E2%80%93_f_18042025.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/%C5%A0koda_Karoq",
+    "imageTitle": "Škoda Karoq",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Škoda Karoq\" car"
+  },
+  "škoda::kodiaq": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Skoda_Kodiaq_Facelift_IMG_6636.jpg/1280px-Skoda_Kodiaq_Facelift_IMG_6636.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/%C5%A0koda_Kodiaq",
+    "imageTitle": "Škoda Kodiaq",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Škoda Kodiaq\" car"
+  },
+  "škoda::superb": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2024_%C5%A0koda_Superb_%28cropped%29.jpg/1280px-2024_%C5%A0koda_Superb_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/%C5%A0koda_Superb",
+    "imageTitle": "Škoda Superb",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Škoda Superb\" car"
+  },
+  "škoda::scala": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Skoda_Scala_IMG_2515.jpg/1280px-Skoda_Scala_IMG_2515.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/%C5%A0koda_Scala",
+    "imageTitle": "Škoda Scala",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Škoda Scala\" car"
+  },
+  "škoda::enyaq": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%C5%A0koda_Enyaq_IMG_1190.jpg/1280px-%C5%A0koda_Enyaq_IMG_1190.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/%C5%A0koda_Enyaq",
+    "imageTitle": "Škoda Enyaq",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Škoda Enyaq\" car"
+  },
+  "škoda::enyaq coupé": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Diess%2C_ID_lineup%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A9912%29.jpg/1280px-Diess%2C_ID_lineup%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A9912%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/Volkswagen_Group_MEB_platform",
+    "imageTitle": "Volkswagen Group MEB platform",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Škoda Enyaq Coupé\" car"
+  },
+  "škoda::elroq": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%C5%A0koda_Elroq_DSC_9260.jpg/1280px-%C5%A0koda_Elroq_DSC_9260.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/%C5%A0koda_Elroq",
+    "imageTitle": "Škoda Elroq",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Škoda Elroq\" car"
+  },
+  "škoda::epiq": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%C5%A0koda_Epiq_Showcar_IAA_2025_DSC_1378_%28cropped%29.jpg/1280px-%C5%A0koda_Epiq_Showcar_IAA_2025_DSC_1378_%28cropped%29.jpg",
+    "imagePageUrl": "https://en.wikipedia.org/wiki/%C5%A0koda_Epiq",
+    "imageTitle": "Škoda Epiq",
+    "license": "CC BY-SA / Wikimedia Commons (via Wikipedia page images)",
+    "fetchedAt": "2026-04-01",
+    "query": "\"Škoda Epiq\" car"
+  }
+}
